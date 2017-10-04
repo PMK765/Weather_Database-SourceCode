@@ -1,0 +1,1682 @@
+CALIFORNIA, North Central
+
+CAZ019 Northern San Joaquin Valley
+01 31
+0000PST 2359PST 0 0 0.00K 0.00K Drought
+Long term drought impacts continued to decrease through the month of January, as a series of strong atmospheric river storms brought very wet conditions. This continued the wet pattern which began in the Fall; and resulted in significant improvement to the drought situation, especially to the northern Sierra. The northern Sierra had the third wettest January on record (8 Station Index). At the end of January, Lake Shasta was 115% of normal, Lake Oroville was 123%, Folsom Lake was 80%, and Don Pedro was 129%. New Melones Reservoir improved, though continued to lag behind the other significant area reservoirs at 71% of normal. The U.S. Drought Monitor showed significant improvement over the area, with only the northern San Joaquin Valley in D1 Moderate Drought, and portions of the Motherlode in D0 Abnormally Dry, Those areas were in D3 Extreme Drought and D2 Severe Drought in December. All of the rest of interior Northern California, including the northern Sierra, the Sacramento Valley, the Delta, and the southern Cascades were in the 'None' category by the end of January.
+Groundwater aquifers continued to recharge more slowly than the surface reservoirs, though the DWR Water Data Library showed signs of improvement in some areas. Governor Jerry Brown declared a drought emergency for the entire state of California January 17, 2014 and this continued to be in effect. Governor Brown issued an executive order on May 9, 2016 that built on temporary statewide emergency water restrictions to establish longer-term water conservation measures, including permanent monthly water use reporting, new permanent water use standards in California communities and banned clearly wasteful practices such as hosing off sidewalks, driveways and other hardscapes. Local emergency proclamations remain for Colusa, Calaveras, El Dorado, Glenn, San Joaquin, Shasta, Stanislaus, Sutter, Tuolumne, and Yuba counties. Plumas County no longer had a Local Emergency Proclamation. The cities of Live Oak (Sutter County), Lodi (San Joaquin County), Manteca (San Joaquin County), Portola (Plumas County), Ripon (San Joaquin County), and West Sacramento (Yolo County) continued to have local emergency proclamations . Drought task forces remain in Lake, Nevada, Placer, Plumas, Sacramento, San Joaquin, Stanislaus, Sutter, Tehama, Tuolumne, and Yolo counties to coordinate response to the drought.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+29
+CALIFORNIA, North Central                         
+
+CAZ013-069 Burney Basin/Eastern Shasta County - Shasta Lake/North Shasta County - West Slope Northern Sierra Nevada
+01 03
+0600PST 0800PST 0 0 0.00K 0.00K Heavy Snow
+El Dorado County 4 E Kyburz 03 04
+0700PST 0743PST 0 0 0.00K 0.00K Heavy Rain
+There was 1.73 inches of rain measured over 24 hours, 4 miles east of Kyburz.
+El Dorado County 1 SW Pacific 03 04
+0700PST 0747PST 0 0 0.00K 0.00K Heavy Rain
+There was 2.40 inches of rain measured over 24 hours in Pacific House, 4.56 inches storm total, over 3 days.
+Plumas County 1 E Quincy 03 04
+0800PST 0 0 0.00K 0.00K Heavy Rain
+There were 1.99 inches of rain over 6 hours.
+El Dorado County 2 WSW Gold Hill 03 04
+1900PST 1945PST 0 0 0.00K 0.00K Flood
+Minor street flooding was reported on roads near Gold Hill. A very cold air mass coupled with a strong moisture plume brought several feet of snow to higher elevations. Snow accumulated down into the foothills, impacting travel over long stretches of highways. Local flooding was reported in the Valley.
+Plumas County 1 W La Porte 06 09
+1200PST 0 0 0.00K 0.00K Heavy Rain
+There were 13.39 of rain measured at La Porte. The duration of the heavy rain event was 72 hours.
+Sacramento County Foothill Farms 06 09
+1300PST 0 0 0.00K 0.00K Heavy Rain
+There were 11.25 measured at Arcade Creek. The duration of the heavy rain event was 72 hours.
+Butte County 1 W Berry Creek 06 09
+1530PST 0 0 0.00K 0.00K Heavy Rain
+There were 11.59 of rain measured. The duration of the heavy rain event was 72 hours.
+Plumas County 1 WNW Almanor 06 09
+1653PST 0 0 0.00K 0.00K Heavy Rain
+There was 3.99 of rain measured, 72 hour storm total.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+30
+CALIFORNIA, North Central
+
+CAZ015 Northern Sacramento Valley
+07 0000PST 1000PST 0 0 0.00K 0.00K Winter Weather
+Sacramento County 4 NNW Bridge House 07 08
+0920PST 0 0 15.00K 0.00K Flood
+Flooding of Deer Creek reported at Scott Rd. in Sloughhouse.  A driver was rescued when his truck got stuck as he drove across the flooded road.
+Butte County 4 WSW Dayton 3 WSW Chico Ranchaero Arpt
+07 08
+1000PST 1025PST 0 0 0.00K 0.00K Flood
+River Road between Chico River Road and Ord Ferry Road was closed due to flooding.
+Sacramento County 1 NE Dillard 07 08
+1120PST 0 0 0.00K 0.00K Flood
+Heavy rainfall brought street flooding to Wilton on Green Rd.
+Plumas County 3 WSW Bucks Lake 07 09
+1200PST 0 0 0.00K 0.00K Heavy Rain
+There were 11.25 inches measured at Bucks Lake. The duration of the heavy rain event was 72 hours.
+Sacramento County 3 ENE Mayhew 07 08
+1300PST 0 0 0.00K 0.00K Flood
+Kiefer Boulevard north of Jackson Rd. was closed due to flooding.
+Butte County 1 NNW Shippee 2 N Thermalito
+07 08
+1450PST 0 0 0.00K 0.00K Flood
+Cottonwood Road from Table Mountain to Highway 99 closed due to flooding.
+Plumas County 2 SW Merlin 07 08
+1600PST 0 0 0.00K 0.00K Flood
+Flooding caused closure of Highway 70 near Cresta Dam on Feather River Canyon. This was due to heavy rain which necessitated the opening of the floodgates.
+Nevada County 4 W Soda Spgs 07 08
+1733PST 0 0 10.00K 0.00K Flood
+Homes flooded near the Plavada subdivision in Kingvale, with 2 feet of water in some homes and garages.
+Butte County Pulga 07 08
+2000PST 2044PST 0 0 0.00K 0.00K Flood
+Highway 70 was closed from Jarbo Gap to Greenville due to flooding.
+Nevada County Soda Spgs 07 08
+2300PST 0 0 0.00K 0.00K Flood
+Roadway flooding cut off access to Lake Van Norden.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+31
+CALIFORNIA, North Central                         
+Placer County 1 N Colfax Shady Glen
+08 09
+0000PST 0015PST 0 0 6.00K 0.00K Debris Flow
+There was a mudslide blocking Highway 174 in Colfax.
+Butte County 1 NE Chico 08 09
+0000PST 0037PST 0 0 0.00K 0.00K Flood
+Big Chico Creek overran its banks in Bidwell Park.
+Nevada County 4 W Soda Spgs 08 09
+0600PST 0642PST 0 0 0.00K 0.00K Heavy Rain
+There was 5.76 of rain, with a storm total of 10.67. There was light snow at the time of observation, with 28 of snow on the ground.
+El Dorado County 4 E Kyburz 08 09
+0700PST 0719PST 0 0 0.00K 0.00K Heavy Rain
+There was 4.29 inches of rain measured over 24 hours, 4 miles east of Kyburz.
+El Dorado County 1 S Pacific 08 09
+0700PST 0734PST 0 0 0.00K 0.00K Heavy Rain
+There was a 24 hour total of 4.25 of rain in Pacific House, with an 8 day total of 13.89.
+Butte County 17 ESE Jonesville 17 NE Cresta
+08 1200PST 1800PST 0 0 48.00K 0.00K Debris Flow
+Multiple rockfalls blocked SR 70 in the Feather River Canyon with rocks and large boulders.
+Lake County 3 WNW Middletown 08 09
+1200PST 0 0 0.00K 0.00K Heavy Rain
+There were 11.25 of rain measured at Bear Canyon Road, in Anderson Springs. The duration of the heavy rain event was 72 hours.
+Placer County 2 SE Cisco 08 09
+1200PST 0 0 0.00K 0.00K Heavy Rain
+There were 14.07 of rain over 72 hours at Huysink along I80.
+
+CAZ067-069 Motherlode/Camptonville to Groveland - West Slope Northern Sierra Nevada
+08 1200PST 1900PST 0 0 480.0K 0.00K High Wind
+Yolo County 2 NW Rumsey 08 1500PST 2130PST 0 0 365.00K 0.00K Debris Flow
+Roadway closed on Highway 16 Yolo - Rumsey to Highway 20 due to rockslide and debris in the roadway.
+
+CAZ017 Southern Sacramento Valley
+08 09
+1800PST 0026PST 0 0 35.0K 0.00K Strong Wind
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+32
+CALIFORNIA, North Central                         
+El Dorado County 1 S Kyburz 09 10
+0700PST 0718PST 0 0 0.00K 0.00K Heavy Rain
+There was 1.55 of heavy rain measured over 24 hours in Kyburz.
+El Dorado County 8 N Pacific 09 10
+0700PST 0755PST 0 0 0.00K 0.00K Heavy Rain
+There was 2.20 of rain measured over 24 hours near Big Bend Summit, with a 9 day total of 16.19.
+Placer County 4 NE Lincoln 09 10
+0700PST 0752PST 0 0 0.00K 0.00K Heavy Rain
+Ham radio operators in the Grass Valley/Nevada City area reported 2.5 to 3.0 of rain over 24 hours.
+
+CAZ069 West Slope Northern Sierra Nevada
+09 10
+0700PST 0736PST 0 0 0.00K 0.00K Heavy Snow
+Yuba County 9 ENE Wheatland 09 10
+0800PST 0838PST 0 0 0.00K 0.00K Heavy Rain
+There was a 24 hour total of 1.46 measured 7 SE of Beale AFB.
+
+CAZ069 West Slope Northern Sierra Nevada
+09 10
+0800PST 0843PST 0 0 0.00K 0.00K Heavy Snow
+Plumas County 1 WNW Canyondam 09 10
+1000PST 1012PST 0 0 0.00K 0.00K Flood
+Northbound lane of Highway 89 closed due to 8 inches of water in the roadway.
+Butte County 1 ENE Bidwell Bar 09 10
+1100PST 0 0 6.00K 0.00K Heavy Rain
+A rock/mud slide covered the northbound lane of Highway 162 near the intersection with Simmons Rd. on the east side of Lake Oroville.
+El Dorado County 1 SW Pacific 09 10
+1230PST 1635PST 0 0 0.00K 0.00K Heavy Rain
+There was 1.68 of rain measured over 8 hours at Pacific House.
+
+CAZ066 Northeast Foothills/Sacramento Valley
+09 1300PST 0 0 0.00K 0.00K Strong Wind
+Glenn County 13 ENE Afton 1 ESE Butte City
+09 10
+1400PST 1402PST 0 0 0.00K 0.00K Flood
+SR162 was closed from Road Y to Midway in Butte County due to flooding.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+33
+CALIFORNIA, North Central
+Placer County 3 SW Lincoln 09 1400PST 1402PST 0 0 0.00K 0.00K 0.18 20 Tornado (EF0)
+A brief tornado touchdown was photographed out in a grassy field in Lincoln, near Thunder Valley Casino, causing no damage.
+Placer County 1 NW Rocklin 09 10
+1700PST 1718PST 0 0 0.00K 0.00K Heavy Rain
+There was 2.00 of rainfall estimated over 24 hours. Clover Valley Creek rose to the top of its banks and extended into portions of Clover Valley Park.
+El Dorado County 2 SW Kyburz 09 10
+1800PST 1200PST 0 0 20.00K 0.00K Debris Flow
+CalTrans reported a mud/rock slide on Highway 50, which closed westbound lanes.
+Nevada County 2 W Soda Spgs 09 10
+1800PST 1100PST 0 0 480.00K 0.00K Debris Flow
+Interstate 80 was closed in both directions over the Sierra Nevada near Donner Lake. CalTrans and CHP reported a 60 foot mudslide at 6 pm due to a mudslide. Interstate 80 was shut down for 17 hours west bound, 14 hours east bound, until CalTrans removed the debris.
+
+CAZ069 West Slope Northern Sierra Nevada
+09 10
+1800PST 0615PST 0 0 0.00K 0.00K Heavy Snow
+Butte County 3 SSW Pulga 09 10
+2100PST 0 0 4.26M 0.00K Debris Flow
+Rocks, mud, on Highway 70, making the roadway unpassable, as well as a slip out.
+Amador County 1 E Jackson 09 10
+2200PST 2230PST 0 0 0.00K 0.00K Flood
+Flooding reported on Highway 49, along South Ave. in Jackson for backs of houses near creek, possible flooded basements. Jackson Creek and Sutter Creek rose over banks. Three bridges shut down in the area.
+Placer County Alta 09 10
+2200PST 0 0 5.00M 0.00K Flood
+The bridge on Morton Rd. was washed out by flooding from Canyon Creek. This road is located next to the I80 exit in Alta. The incident isolated 15 homes. An alternative temporary access was established, traversing a steep, windy gravel road over private property.  The Placer County Board of Supervisors approved two measures giving both short- and long-term assistance to the isolated community. A new temporary bridge, and then a permanent bridge will be constructed on the site. The estimated cost is $3 million dollars for the bridge construction. The total cost was estimated by the county to be $5 million.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+34
+CALIFORNIA, North Central
+A picture of a washed out bridge over Canyon Creek on Morton Rd., in the town of Alta, California on January 10th, 2017. Photo courtesy of Placer County Sheriff's Office. 
+Lake County Whispering Pines 10 0000PST 1000PST 0 0 10.00K 0.00K Flood
+A home adjacent to Boggs Forest in Cobb, Ca. was damaged by water runoff.
+
+CAZ067 Motherlode/Camptonville to Groveland
+10 11
+0000PST 0 0 20.0K 0.00K Strong Wind
+El Dorado County 8 W Fallen Leaf 10 11
+0700PST 0721PST 0 0 0.00K 0.00K Heavy Rain
+There was 1 of new snow at elevation 4050', 9 NNW Twin Bridges.
+El Dorado County 8 N Pacific 10 11
+0725PST 0 0 0.00K 0.00K Heavy Rain
+There were 4.16 inches of rain measured 4 NE Big Bend Summit, with a 10 day total of 20.35.
+Placer County 5 NNE Lincoln 10 11
+0730PST 0740PST 0 0 0.00K 0.00K Heavy Rain
+There was 1.77 of rain measured at 5 ENE Lincoln over 24 hours. Grass Valley ham radio operators reported 3.5 of rain.
+Plumas County 1 S East Quincy 10 0800PST 1300PST 0 0 0.00K 0.00K Heavy Rain
+There were 1.50 of rain measured over 5 hours 1 E of Quincy.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+35
+CALIFORNIA, North Central                         
+Shasta County 2 NNW Castella 10 11
+0800PST 0818PST 0 0 0.00K 0.00K Heavy Rain
+There was 2.15 of rain measured 3 NNW Castella. There was 13.71 for the month.
+
+CAZ017 Southern Sacramento Valley
+10 11
+0900PST 1800PST 0 0 60.0K 0.00K Strong Wind
+Colusa County 2 NE Williams 2 E Delphos
+10 11
+1000PST 1002PST 0 0 0.00K 0.00K Flood
+State Route 20 in Colusa County closed in both directions from Husted Rd in Williams to approximately 3 miles east of Williams at Lone State Rd. due to flooding.
+El Dorado County Chili Bar 10 1200PST 1800PST 0 0 20.00K 0.00K Debris Flow
+Law enforcement reported a mud/rock slide on State Route 193 near the junction with Rock Creek Road.
+Placer County 1 NNW Shady Glen 10 1230PST 2000PST 0 0 0.00K 0.00K Debris Flow
+A mudslide blocked Highway 174 at the Bear River Bridge near Odyssey Lane. Traffic used the shoulders to pass.
+
+CAZ069 West Slope Northern Sierra Nevada
+10 11
+1300PST 0 0 0.00K 0.00K Winter Weather
+El Dorado County 1 NE Chili Bar 10 11
+1800PST 0 0 0.00K 0.00K Debris Flow
+Law enforcement reported rocks, mud, and a large tree on Rock Creek Rd. in northern Placerville, CA.
+Sacramento County 2 NE Dillard 10 11
+1800PST 0 0 0.00K 0.00K Flood
+Heavy rainfall and water over topping a levee along the Cosumnes brought street flooding to Wilton on Green Rd and Dillard Rd, and into adjacent properties. There were voluntary evacuations of about 7000 to 10000 people, due to the levee over topping and the threat of possible levee failure.
+Nevada County 4 SE Birchville 10 11
+2100PST 0 0 1.12M 0.00K Debris Flow
+Rocks, mud, and a tree across the roadway on Highway 49. The roadway was unpassable due to numerous slides on both sides of the South Yuba River Bridge.
+Sacramento County 2 NNW Del Paso Hgts 11 0001PST 0004PST 0 0 25.00K 0.00K 0.42 130 Tornado (EF0)
+An NWS survey determined an EF0 tornado touched down in the southern Natomas area of Sacramento- South Natomas Tornado. The path length was 3/8 of a mile. Several trees and fences were downed. Two metal awnings were twisted and torn down. Numerous trees were stripped of limbs and deposited in the roadway.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+36
+CALIFORNIA, North Central                         
+Plumas County 51 NW Wonderland 11 12
+1030PST 0 0 0.00K 0.00K Debris Flow
+State Route 70 closed due to a mud slide at mile marker 5, in Plumas County.
+Stanislaus County 3 WSW Chemurgic 11 1055PST 1100PST 0 0 0.00K 0.00K Funnel Cloud
+A funnel cloud was sighted and photographed over Ceres, around Central Ave. and Bradbury Rd. There were no reports of touchdown or damage.
+Yolo County 1 NW Rumsey 11 1110PST 1115PST 0 0 392.00K 0.00K Debris Flow
+State Route 16 in Yolo County was closed from Rumsey Canyon to State Route 20 due to a rock/mud slide blocking the roadway.
+Sierra County 5 NNW Pike 11 1114PST 2000PST 0 0 1.59M 0.00K Debris Flow
+State Route 49 in Sierra County closed due to a rock/mud slide blocking the roadway. The guard rail was damaged.
+Two strong storms brought a range of significant weather impacts to northern interior California. The first storm was very wet and warm, the second not quite as wet but cooler with lower snow levels. Both storms brought strong, damaging winds.  The heavy rain brought widespread flooding of small streams and rivers, with some flooding of main stem rivers, mountain snow many feet deep, and numerous trees down on roads, vehicles, and homes. Many roads, including major highways such as Interstate 80, were shut down due to mudslides, heavy snow, flooding, washouts or avalanche suppression.  EF0 tornadoes were reported at Lincoln and Natomas. Other significant impacts include numerous accidents due to slippery roads, evacuations and rescues due to flooding.
+
+CAZ016>019 Carquinez Strait and Delta - Central Sacramento Valley - Northern San Joaquin Valley - Southern Sacramento Valley
+18 1400PST 2000PST 0 0 0.00K High Wind
+Strong winds combined with saturated soils downed trees, some falling across cars, homes, and roads, caused tens of thousands of homes to lose power.
+Shasta County 2 NW Sims 19 20
+1000PST 0 0 0.00K 0.00K Heavy Rain
+There were 3.09 of rain measured at Sims, along with a dusting of snow.
+Butte County 1 W Villa Verona 19 20
+1600PST 1634PST 0 0 0.00K 0.00K Heavy Rain
+There were 2.25 of rain measured over 24 hours.
+Shasta County 1 E Redding 19 20
+1731PST 0 0 0.00K 0.00K Heavy Rain
+There were 3.58 over 24 hours in Redding,  1.03 overnight until 0730, then 2.55 until 1730.
+
+CAZ069 West Slope Northern Sierra Nevada
+22 23
+0700PST 0 0 0.00K 0.00K Heavy Snow
+A series of winter storms moved through bringing travel problems in the mountains from heavy snow, and heavy rain with local flooding. Gusty winds brought down trees and caused power outages. Thunderstorms also locally brought some large hail.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+37
+CALIFORNIA, North Central
+
+CAZ017 Southern Sacramento Valley
+22 0700PST 1200PST 0 0 76.0K 0.00K Strong Wind
+Strong winds combined with saturated soils downed trees, some falling across cars, homes, and roads, caused tens of thousands of homes to lose power.
+
+CAZ067 Motherlode/Camptonville to Groveland
+22 23
+1630PST 0 0 0.00K 0.00K Heavy Snow
+Sutter County 6 SSW Yuba City South 23 1500PST 1508PST 0 0 0.00K 0.00K Hail (1.00)
+Accumulating hail covered the ground, with hailstones up to an inch in diameter.
+A series of winter storms moved through bringing travel problems in the mountains from heavy snow, and heavy rain with local flooding. Gusty winds brought down trees and caused power outages. Thunderstorms also locally brought some large hail.
+CALIFORNIA, Northwest
+
+CAZ102-105>108110
+Del Norte Interior - NORTHWESTERN MENDOCINO INTERIOR - Northern Humboldt Interior Northern Trinity - SOUTHERN TRINITY - Southern Humboldt Interior
+01 04
+1200PST 0800PST 0 0 Heavy Snow
+A cold storm system brought heavy snow to much of interior Northwest California. Snow was wet and heavy in the interior valley locations of Humboldt County which resulted in hundreds of downed trees and thousands of people without power.
+A picture of heavy snow that fell between January 1st-7th, 2017 in Del Norte County, California. A NWS   employee took a photo of over a foot of snow on Highway 199 that fell near the Collier Tunnel in far northeastern Del Norte County. Photo courtesy of NWS employee. 
+
+CAZ107 Northern Trinity
+06 07
+1000PST 1345PST 0 0 Heavy Snow
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+38
+CALIFORNIA, Northwest
+Humboldt County 3 SE Hoopa 06 07
+2200PST 1100PST 0 0 1.50M 0.00K Heavy Rain
+Landslide along highway 96 near Tish Tang Campground.
+Humboldt County 2 SE Scotia 06 07
+2200PST 1100PST 0 0 600.00K 0.00K Heavy Rain
+Failed culvert along Highway 101.
+Mendocino County 1 SSW Leggett 06 07
+2200PST 1100PST 0 0 2.50M 0.00K Heavy Rain
+Two landslides blocking Highway 1 requiring removal and slope stabilization. Highway has been closed for nearly two months.
+Mendocino County 1 SSE Outlet 06 07
+2200PST 1100PST 0 0 2.00M 0.00K Heavy Rain
+Slope failure along the Willits Bypass.
+Mendocino County 2 S Summit 06 07
+2200PST 1100PST 0 0 1.30M 0.00K Heavy Rain
+Two landslides and a slip out between post miles 20 and 26 along Highway 20 in Mendocino County requiring slide removal and slope stabilization.
+
+CAZ102-104-105 Del Norte Interior - Northern Humboldt Interior - Southwestern Humboldt
+07 0600PST 1100PST 0 0 0.00K 0.00K High Wind
+
+CAZ104 Southwestern Humboldt
+08 0400PST 1200PST 0 0 0.00K 0.00K High Wind
+
+CAZ109 MENDOCINO COAST
+08 1000PST 1100PST 0 0 17.0K 0.00K Strong Wind
+Humboldt County 4 NW Weitchpec 09 11
+1430PST 0030PST 0 0 2.30M 0.00K Heavy Rain
+Culvert failure and slipout near Mitchell Road along Highway 169.
+Humboldt County 1 WNW Miranda 09 11
+1430PST 0030PST 0 0 4.00M 0.00K Heavy Rain
+Eel River bank erosion including a landslide, drainage failures, and sinks from mile post 24 to 27 along Highway 101.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+39
+CALIFORNIA, Northwest
+Humboldt County 1 S Weott 09 11
+1430PST 0030PST 0 0 3.50M 0.00K Heavy Rain
+Multiple sinks in the roadway and a landslide along Highway 101 from post mile 28 to 32.
+Humboldt County 1 WSW Englewood 09 11
+1430PST 0030PST 0 0 5.00M 0.00K Heavy Rain
+Landslide and slipout along Highway 101 near Redcrest.
+Humboldt County 1 SSW Fernbridge 09 11
+1430PST 0030PST 0 0 3.00M 0.00K Heavy Rain
+Scouring and damage to the supports of the Fernbridge bridge over the Eel River on Highway 211.
+Mendocino County 2 NNW Laytonville 09 11
+1430PST 0030PST 0 0 7.00M 0.00K Heavy Rain
+Roadway failure near Laytonville along Highway 101 from milepost 66 to 78.
+Mendocino County Old Hopland 09 11
+1430PST 0030PST 0 0 550.00K 0.00K Heavy Rain
+Dooley Creek bank erosion near Old Hopland.
+Mendocino County 2 SSE Rockport 09 11
+1430PST 0030PST 0 0 3.00M 0.00K Heavy Rain
+Multiple areas of bluff erosion and drainage issues along Highway 1 from post mile 78 to 84.
+Mendocino County 2 SE Albion 09 11
+1430PST 0030PST 0 0 400.00K 0.00K Heavy Rain
+Multiple drainage issues near the Navarro River along Highway 1 and a log jam under the bridge requiring removal.
+Another cold system brought another round of high elevation snow to the region, particularly in Trinity County. This storm system was then followed by a series of wet systems with heavy rain resulting in small stream, urban, and river flooding. The contrasting temperatures from the previous cold systems and saturated ground caused numerous rock and land slides across the region. Also, in addition to the heavy rain, strong coastal and ridge winds resulted in closed roads and power outages.
+Humboldt County 7 WSW Willow Creek 17 18
+1430PST 2300PST 0 0 1.75M 0.00K Heavy Rain
+Landslide and slope failure along Highway 299 near mile post 30.
+Humboldt County 1 NW Richardson Grove 17 18
+1430PST 2300PST 0 0 1.50M 0.00K Heavy Rain
+Failed culverts along Highway 101 between mile posts 6 and 8.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+40
+CALIFORNIA, Northwest                             
+Humboldt County 1 S Phillipsville 17 18
+1430PST 2300PST 0 0 3.00M 0.00K Heavy Rain
+Two sinks in the roadway around mile post 4 on Highway 254, Avenue of the Giants.
+Humboldt County 4 ENE Bridgeville 17 18
+1430PST 2300PST 0 0 2.90M 0.00K Heavy Rain
+Multiple slipouts and sinks along Highway 36 from mile post 3 to 44 due to heavy rain during the month of January and early February. All damage along this section of highway was compiled into one report and given a January 24th event date.
+Humboldt County 5 NE Blue Lake 17 18
+1430PST 2300PST 0 0 650.00K 0.00K Heavy Rain
+Roadway pushup caused by landslide near mile post 19 on Highway 299.
+Mendocino County 1 ENE Farley 17 18
+1430PST 2300PST 0 0 2.00M 0.00K Heavy Rain
+Culvert failure and slipouts from mile post 16 to 23 on Highway 162.
+Mendocino County Cummings 17 18
+1430PST 2300PST 0 0 4.50M 0.00K Heavy Rain
+Large landslide and drainage issues near mile post 87 on Highway 101. Slide reported on January 25th and was caused by the heavy rain earlier in the month.
+Trinity County 7 ENE Hayfork 17 18
+1430PST 2300PST 0 0 750.00K 0.00K Heavy Rain
+Undermined hill and slip-out near mile post 15 on Highway 3.
+
+CAZ102-104>106 Del Norte Interior - Northern Humboldt Interior - Southern Humboldt Interior - Southwestern Humboldt
+18 0400PST 1500PST 0 0 0.00K 0.00K High Wind
+
+CAZ107 NORTHERN TRINITY
+19 20
+2100PST 1700PST 0 0 0.00K 0.00K Heavy Snow
+
+CAZ104 Southwestern Humboldt
+19 20
+2200PST 0300PST 0 0 0.00K 0.00K High Wind
+
+CAZ106 Southern Humboldt Interior
+20 0000PST 0400PST 0 0 0.00K 0.00K High Wind
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+41
+CALIFORNIA, Northwest
+
+CAZ108 Southern Trinity
+21 22
+1830PST 0700PST 0 0 0.00K 0.00K Heavy Snow
+
+CAZ104>106 Northern Humboldt Interior - SOUTHERN HUMBOLDT INTERIOR - Southwestern Humboldt
+21 22
+2000PST 0200PST 0 0 0.00K 0.00K High Wind
+
+CAZ101 Coastal Del Norte
+22 0145PST 0205PST 0 0 0.00K 0.00K High Wind
+Another series of strong storms brought more flooding rains and strong coastal and ridge tops winds to the region. More rock and land slides occurred on primary and secondary highways and trees once again fell during periods of strong winds closing roads and causing power outages.
+CALIFORNIA, South Central
+
+CAZ089>099 East Central San Joaquin Valley - Indian Wells Valley - Kern County Mountains - South Sierra Foothills South Sierra Mountains - Southeast Kern County Desert - Southeast San Joaquin Valley - Southwest San Joaquin Valley - Tulare County Foothills - Tulare County Mountains - West Central San Joaquin Valley
+01 24
+0000PST 2359PST 0 0 Drought
+The California drought strength lessened over during the month of January, 2017. Fresno received 5.50 of precipitation and Bakersfield received 2.76 precipitation during the month. Fresno had much above normal precipitation with 3.31 above normal. Bakersfield had significantly above normal precipitation with 1.60 above the normal precipitation amounts. Above normal precipitation amounts did allow for continued improvement on drought conditions with an increase in soil moisture and significant reservoir recharge. The U.S. Drought Monitor continued to report drought conditions across the entire Central California region. However, several reductions in the drought category occurred during the month. The first happened on January 10th across the northern most portions of the area due to above normal rainfall. The trend continued the following week across the Sierra Nevada Range north of Sequoia National Park. This too was due to above normal precipitation and a good amount of snow pack. Valley locations were still experiencing many dry wells even with the above normal precipitation. However, by the 24th valley locations too had a reduction in category as streams and lakes began to fill due to the wet month. Only a small area in southwestern Kern county had the Extreme (D3) category left, though most of the San Joaquin Valley were still under Severe Drought (D2). The month ended with only the San Emigdio Mountains remaining under Extreme Drought (D3).
+Mariposa County 2 E Elliott Corner 04 0727PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter near Ponderosa Basin in Mariposa County reported a 24 hour rainfall total of 1.90 inches.
+
+CAZ096 South Sierra Mountains
+04 05
+0800PST 0 0 Heavy Snow
+Mariposa County 1 S Mormon Bar 04 1400PST 0 0 0.00K 0.00K Flood Mariposa County Sheriff reported flooding along Mariposa Creek near Mormon Bar in Mariposa County. Also reported several minor road crossings were closed due to flooding.
+Kern County 3 NNW Di Giorgio 05 0600PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding northeast of Lamont on Comanche Drive from Panama Road to Mountain View Road.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+42
+CALIFORNIA, South Central
+Mariposa County 2 E Elliott Corner 05 0647PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter near Ponderosa Basin in Mariposa County reported a 24 hour rainfall total of 3.08 inches.
+Kern County 1 NE Glennville 3 NW Alta Sierra
+05 0648PST 0 0 0.00K 0.00K Flood
+California Higway Patrol reported State Route 155 is closed between 5.5 miles east of Glennville to Greenhorn Summit due to flooding on highway.
+Kern County 9 SW Democrat Spgs 05 0700PST 0 0 0.00K 0.00K Debris Flow California highway patrol reports Highway 178 was closed from Kern Canyon Road through the canyon due to several rock slides from heavy rainfall.
+Kern County 1 S Caliente 05 0730PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding in Caliente on Caliente Bodfish Road near Bealville Road by the Post Office.
+Kern County 5 WSW Ricardo 5 N Garlock
+05 0900PST 0 0 0.00K 0.00K Flood
+Kern County Department of Highways reported flooding near Red Rock Randsburg Road near Red Rock Canyon State Park from Highway 395 to Highway 14 and Garlock Road.
+Kern County Kernvale 05 0900PST 0 0 6.00K 0.00K Flood Kern County Department of Highways reported flooding in Lake Isabella at the intersection of Lake Isabella Road and Erskine Creek Road. Power poles were also reported leaning due to erosion in this area.
+Kern County 7 S Havilah 05 0900PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding south of Havilah on Walser Road from Dailey Road to Caliente Bodfish Road.
+Kern County 2 ENE Lamont 2 NNE Ribier
+05 0900PST 0 0 0.00K 0.00K Flood
+Kern County Department of Highways reported flooding northeast of Lamont on Mountain View Road from Edison Road to Malaga Road.
+Kern County 3 NE Lamont 1 NNW Ribier
+05 0900PST 0 0 0.00K 0.00K Flood
+Kern County Department of Highways reported flooding northeast of Lamont on Edison Road from Panama Road to Panama Lane.
+Mariposa County 2 E Elliott Corner 05 0900PST 0 0 0.00K 0.00K Heavy Rain Public report of 24 hour rainfall of 2.70 inches near Ponderosa Basin in Mariposa County.
+Tulare County 1 SE Camp Nelson 05 0911PST 0 0 Heavy Rain Public report of 24 hour rainfall total of 5.70 inches in Camp Nelson.
+Kern County 1 SSW Bodfish 05 0930PST 1000PST 0 0 0.00K 0.00K Flash Flood
+Kern County Department of Highways reported flooding in Bodfish on Caliente Bodfish Road at Rim Road for southbound traffic.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+43
+CALIFORNIA, South Central                         
+Kern County 4 NE Edison 05 0930PST 0 0 0.00K 0.00K Flash Flood Kern County Department of Highways reported flooding east of Bakersfield on Breckenridge Road about 3 miles from Commanche Drive.
+Kern County 4 NE Edison 05 0930PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding east of Bakersfield on Breckenridge Road about 3 miles from Commanche Drive.
+Kern County 2 N Di Giorgio 05 0930PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding east of Lamont on Tejon Highway from Mountain View Road to Panama Road.
+Kern County 1 S Bodfish 05 0930PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding in Bodfish on Caliente Bodfish Road at Rim Road for southbound traffic.
+Kern County 6 WSW Cable 05 1030PST 0 0 0.00K 0.00K Flood Kern County Department of Highways reported flooding near Bear Valley Springs on Pellisier Road between Giraudo Road and Baumbach Road.
+Mariposa County 1 W Fish Camp 05 1052PST 0 0 Heavy Rain Trained spotter report of 24 hour rainfall total over 5 inches in Fish Camp.
+
+CAZ095 Kern County Mountains
+05 1315PST 0 0 15.0K 0.00K Dense Fog
+Kern County 2 ESE Di Giorgio 05 1700PST 0 0 15.00K 0.00K Flood Public reported truck swept away in high water near Rockpile Road. However, no substantiating evidence had been received.
+Kern County 2 WNW Arvin 05 2100PST 0 0 36.00K 0.00K Flood Public reported that three vehicles stuck in high water on Malaga Road near East Canal just west of Arvin in Kern County.
+Low pressure moving southeastward into central CA from the Pacific Northwest allowed subtropical moisture stream to be pumped into the region bringing heavy rainfall to the San Joaquin Valley and foothill areas. Orographic lifting caused intensification of rains at times. Heavy mountain snows also occurred. Low clouds and fog from the orographic lifting also created dangerous driving conditions for the Kern County mountain passes.
+Kern County 1 WNW Tehachapi 07 1114PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding at Highway 58 and State Route 202 near Tehachapi.
+Kern County 2 WNW Cantil 07 1117PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding at Highway 14 and Redrock Randsburg Road near Cantil.
+Tulare County 3 ENE Fountain Spgs 07 1231PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road flooding and debris on Hot Springs Road and Road M-52 about 20 miles west of California Hot Springs.
+Merced County 1 SW Cortez 07 1329PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road flooding at Harding Road and Cortez Road near Cortez.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+44
+CALIFORNIA, South Central
+Tulare County 2 ESE Kaweah 2 NE Three Rivers
+07 1444PST 1500PST 0 0 0.00K 0.00K Flash Flood
+California Highway Patrol reported roadway flooding on Highway 198 and Craig Ranch Road northeast of Three Rivers.
+Tulare County 3 NE Three Rivers 07 1444PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Highway 198 and Craig Ranch Road northeast of Three Rivers.
+Fresno County 1 SE Raisin City 07 1500PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding southeast of Raisin City on Dinuba Avenue near Henderson Road.
+Tulare County 3 NE Three Rivers 07 1738PST 1930PST 0 0 0.00K 0.00K Debris Flow
+California Highway Patrol report of mud, dirt, and rock partially blocking Mineral King Road and Highway 198 intersection near Hammond. Traffic was able to move around the obstruction.
+Tulare County 3 E Kaweah 07 1738PST 0 0 0.00K 0.00K Flood California Highway Patrol report of mud, dirt, and rock partially blocking Mineral King Road and Highway 198 intersection near Hammond. Traffic was able to move around the obstruction.
+Fresno County 4 S Squaw Vly 07 1917PST 0 0 0.00K 0.00K Flood California Highway Patrol reported a boulder in the road near the intersection of George Smith Road and Bronco Lane south of Squaw Valley.
+Fresno County 3 WNW Dunlap 07 1938PST 0 0 0.00K 0.00K Flood California Highway Patrol reported large boulder in westbound lane of State Route 180 at Hopewell Road northeast of Squaw Valley.
+Madera County 2 ESE Wishon 07 1945PST 0 0 0.00K 0.00K Flood California Highway Patrol reported large boulder on Road 274 near Central Camp Road east of Wishon.
+Tulare County 4 ENE Three Rivers 07 2035PST 0 0 0.00K 0.00K Flash Flood California Highway Patrol reports mud slide and boulders blocking Mineral King Road near Three Rivers.
+Tulare County 1 NNE Lemoncove 07 2158PST 0 0 159.70K 0.00K Flash Flood California Highway Patrol reports that Highway 198 at Long Road is closed due to a mudslide just southwest of Kaweah Lake.
+Kings County 2 S Rossi 8 SSW Kettleman City
+08 11
+0000PST 2359PST 0 0 637.19K 0.00K Flood
+CalTrans reported accelerated pavement failure areas of Highway 41 across Kings County due to flood waters.
+Fresno County 1 SSW Indian Mission 08 0020PST 0 0 0.00K 0.00K Flash Flood California Highway Patrol reported that Highway 168 westbound was closed due to boulder and rock slide west of Humphreys Station.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+45
+CALIFORNIA, South Central
+Fresno County 5 SE Ora 08 1946PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road completely flooded over on Highway 33 at Lost Hills Road southeast of Coalinga.
+Fresno County 11 W Coalinga 08 2121PST 0 0 0.00K 0.00K Flood California Highway Patrol reported Highway 198 was closed due to road flooding from Firestone Avenue to the Fresno/Monterey County line west of Coalinga.
+Madera County 1 N Yosemite Forks 1 N Ponderosa Acres
+08 2317PST 0 0 0.00K 0.00K Flood
+California Highway Patrol reported southbound lane of Highway 41 was blocked due to debris flow near Road 632 north of Yosemite Forks.
+Madera County 2 NNW North Fork 09 0000PST 0 0 0.00K 0.00K Flash Flood Utility company reported that the mobile home park near Willow Creek and downstream from Crane Valley Dam was to be evacuated due to flood threat from planned Crane Valley Dam releases.
+Madera County 2 NNW North Fork 09 0000PST 0 0 0.00K 0.00K Flood Utility company reported that the mobile home park near Willow Creek and downstream from Crane Valley Dam was to be evacuated due to flood threat from planned Crane Valley Dam releases.
+Tulare County 1 N Lemoncove 09 0003PST 0 0 0.00K 0.00K Flood Broadcast Media reported Highway 198 near Road 248 was closed due to flooding near Citro.
+Fresno County 2 SSW Prather 2 NW Indian Mission
+09 0046PST 0 0 0.00K 0.00K Flood
+California Highway Patrol reported rocks and boulders blocking part of southbound lane on Highway 168 near Tollhouse south of Prather.
+Tulare County 1 N Three Rivers 09 0100PST 0 0 0.00K 0.00K Flood Tulare County Official reported that the bridge at Kaweah River Drive was closed due to flooding northeast of Three Rivers.
+Fresno County 1 WSW Burrough 09 0116PST 0 0 0.00K 0.00K Flood California Highway Patrol reported dirt and rocks on roadway due to small landslide from heavy rain on Burrough Valley Road near Sycamore Road east of Humphreys Station.
+Madera County 4 E Indian Spgs 09 0211PST 0 0 0.00K 0.00K Flood California Highway Patrol reported rocks and dirt on Road 200 at Ralston Way just west of Fine Gold Creek north of Millerton Lake.
+Tulare County Milo 09 0217PST 0 0 0.00K 0.00K Flood Californa Highway Patrol reported roadway flooding on Balch Park Road near Yokohl Valley Drive north of Springville.
+Merced County 2 SE Merced Arpt 09 0301PST 0 0 0.00K 0.00K Flood California Highway Patrol reported closure of Highway 59 at Reilly Road due to road flooding south of Merced.
+Fresno County 1 SSW Clovis 09 0312PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding at intersection of Minnewawa Avenue and Norwich Road in Clovis.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+46
+CALIFORNIA, South Central
+Mariposa County 1 NE Mt Bullion 09 0313PST 0 0 0.00K 0.00K Flood California Highway Patrol reported mud covering most of southbound lane of Highway 49 near Mt. Bullion Cutoff Road in Mt. Bullion.
+Tulare County 1 NW Three Rivers 09 0518PST 0 0 0.00K 0.00K Flood California Highway Patrol reported flooding on Highway 198 and water flowing over Airport Drive and Upper North Fork bridges in Three Rivers.
+Fresno County 1 SW Tollhouse 09 0623PST 0 0 0.00K 0.00K Flood California Highway Patrol reported small rockslides on Tollhouse Road near Lodge Road south of Tollhouse due to heavy rain.
+Fresno County 4 N Huron 09 0819PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Highway 269 near Highway 198 north of Huron.
+Kern County 1 W Di Giorgio 09 0836PST 0 0 0.00K 0.00K Flood California Highway Patrol reported flooded roadway at Di Giorgio Road and Comanche Drive and vehicles blocking roadway due to flooding east of Lamont.
+Kern County 1 E Kernville 09 1132PST 0 0 0.00K 0.00K Flood Broadcast Media reported through twitter a picture of Kern River Overflowing near Kernville.
+Kern County 2 SSW Magunden 2 N Lamont
+09 1135PST 0 0 0.00K 0.00K Flood
+Caltrans District 6 reported that Weedpatch Highway between Redbank Road and Panama Lane southeast of Bakersfield was closed due to flooding.
+Fresno County 2 N Huron 09 1219PST 0 0 0.00K 0.00K Flood Broadcast Media reported through Twitter a video showing road flooding on Lassen Avenue between Mitchell Avenue and Marmon Avenue north of Huron.
+Kern County 11 NNE Lost Hills 10 0749PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road flooding on Garces Highway near Corcoran Road/Dairy Avenue just east of Kern Wildlife Refuge northeast of Lost Hills. A series of systems fed by a continued influx of very moist air was pushed into the central California interior through an atmospheric river set-up for several days. This created high snow levels between 9,000-10,000 feet and heavy rainfall for a majority of the San Joaquin Valley County Warning Area which in turn created flooding and flash flooding of area rivers, streams, and water supply canals. Also debris flows, rock slides, and road ponding/flooding was reported.
+
+CAZ096-097 South Sierra Mountains - Tulare County Mountains
+10 11
+0800PST 0 0 Heavy Snow
+Moist air was pushed into the central California interior from an atmospheric river influx was coupled with a colder low pressure system that moved into central California bringing lower snow levels and heavy snowfall to parts of the Sierra Nevada and Kern County Mountains.
+Fresno County 1 NNE Meadow Lakes 10 1620PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road flooding on Usfs Road near Acorn Road north of Meadow Lakes.
+Fresno County 4 N Huron 11 0712PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road closure of Highway 269 near Highway 198 north of Huron.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+47
+CALIFORNIA, South Central
+Merced County 3 NW Gustine 11 0800PST 0 0 0.00K 0.00K Flood Merced Emergency Manager reports numerous road closures between Gustine and Newman due to broken levee along Garza Creek. A series of systems fed by a continued influx of very moist air was pushed into the central California interior through an atmospheric river set-up for several days. This created high snow levels between 9,000-10,000 feet and heavy rainfall for a majority of the San Joaquin Valley County Warning Area which in turn created flooding and flash flooding of area rivers, streams, and water supply canals. Also debris flows, rock slides, and road ponding/flooding was reported.
+
+CAZ095 Kern County Mountains
+11 12
+0800PST 0 0 Heavy Snow
+Moist air was pushed into the central California interior from an atmospheric river influx was coupled with a colder low pressure system that moved into central California bringing lower snow levels and heavy snowfall to parts of the Sierra Nevada and Kern County Mountains.
+Madera County 4 NE Oneals 11 0805PST 0 0 0.00K 0.00K Flood California Highway Patrol reported mud covering southbound lanes of Road 200 near House Ranch Road southwest of Fine Gold.
+Mariposa County 1 SW El Portal 11 0831PST 0 0 0.00K 0.00K Flood California Highway Patrol reported large boulders blocking westbound lane of Highway 140 near El Portel just west of Yosemite National Park entrance. A series of systems fed by a continued influx of very moist air was pushed into the central California interior through an atmospheric river set-up for several days. This created high snow levels between 9,000-10,000 feet and heavy rainfall for a majority of the San Joaquin Valley County Warning Area which in turn created flooding and flash flooding of area rivers, streams, and water supply canals. Also debris flows, rock slides, and road ponding/flooding was reported.
+Fresno County 2 WNW Glorietta 12 0600PST 0 0 Heavy Rain Trained spotter report of 24 hour rainfall total of 0.66 inches in Clovis.
+Fresno County Clovis 12 1222PST 0 0 0.00K 0.00K Flood Public reported via Facebook of street flooding approximately 2 to 3 feet deep in Clovis.
+Fresno County 1 SW Tarpey 1 NW Sunnyside
+12 1320PST 0 0 0.00K 0.00K Flood
+Public report of standing water from heavy rain along Fowler Avenue and other nearby neighborhoods in Fresno.
+Fresno County Melvin 12 1354PST 0 0 0.00K 0.00K Flood Broadcast Media reports road flooding due to heavy rainfall near intersection of Barstow Avenue and Armstrong Avenue in Clovis.
+Fresno County Melvin 12 1400PST 0 0 0.00K 0.00K Flood Public reported road closures due to road flooding near Armstrong Avenue and Bullard Avenue in Clovis.
+Fresno County Minkler 12 1504PST 0 0 0.00K 0.00K Flash Flood California Highway Patrol reported about a foot of water across all lanes on Highway 180 near Reed Avenue near Minkler.
+Fresno County 1 E Minkler 12 1504PST 0 0 0.00K 0.00K Flood California Highway Patrol reported about a foot of water across all lanes on Highway 180 near Reed Avenue near Minkler.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+48
+CALIFORNIA, South Central
+Madera County 1 S Madera 12 1537PST 0 0 0.00K 0.00K Funnel Cloud Public report on social media with a photo of a funnel cloud in Madera.
+Fresno County Herndon 12 1538PST 0 0 0.00K 0.00K Funnel Cloud Public reported a brief funnel cloud northwest of Fresno.
+Madera County 1 W Ripperdan 12 1559PST 0 0 0.00K 0.00K Funnel Cloud Law enforcement reported a report from the public of a funnel cloud near Avenue 7 on Highway 145.
+A series of systems fed by a continued influx of very moist air was pushed into the central California interior through an atmospheric river set-up for several days prior and a colder low pressure system moved into central California. This created thunderstorms that produced heavy rainfall for parts of the San Joaquin Valley. Reports of road ponding/flooding was reported along with a few reports of funnel clouds.
+
+CAZ096-097 South Sierra Mountains - Tulare County Mountains
+18 19
+0800PST 0 0 Heavy Snow
+
+CAZ095 Kern County Mountains
+18 1804PST 0 0 Winter Weather Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and the Sierra Foothills along with wintry weather in the Kern County Mountains.
+Kings County 2 S Avenal 18 1808PST 0 0 0.00K 0.00K Flood California Highway Patrol reported a road closure due to roadway flooding on State Route 33.
+Merced County 2 NNE Winton 18 1909PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Mercedes Avenue and Shafer Road northeast of Winton.
+A nearly stationary cold low pressure system from the Pacific Northwest moved into central California and tropical moisture being fed from the Pacific with a continued  atmospheric river set-up, brought thunderstorms and heavy rainfall to the Sierra Nevada Mountains and Foothills and parts of the San Joaquin Valley over several days. Small pea-sized hail was also reported with some of the thunderstorms.
+
+CAZ096-097 South Sierra Mountains - Tulare County Mountains
+19 20
+0800PST 0 0 Heavy Snow
+Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and the Sierra Foothills along with wintry weather in the Kern County Mountains.
+Mariposa County 2 E Elliott Corner 20 0700PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter reported a 24 hour rainfall report of 1.14 inches near Ponderosa Basin in Mariposa County.
+A nearly stationary cold low pressure system from the Pacific Northwest moved into central California and tropical moisture being fed from the Pacific with a continued  atmospheric river set-up, brought thunderstorms and heavy rainfall to the Sierra Nevada Mountains and Foothills and parts of the San Joaquin Valley over several days. Small pea-sized hail was also reported with some of the thunderstorms.
+
+CAZ096-097 South Sierra Mountains - Tulare County Mountains
+20 21
+0800PST 0 0 Heavy Snow
+Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+49
+CALIFORNIA, South Central                         
+Merced County 3 N Snelling 20 1032PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on La Grange Road near Fields Road north of Snelling.
+Kern County 4 S Monolith 4 WNW Creal
+20 1108PST 0 0 0.00K 0.00K Flood
+California Highway Patrol reported roadway flooding on Tehachapi Willow Springs Road near Oak Creek Road southeast of Tehachapi.
+Kern County Bealville 20 1110PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Bealville Road near Highway 58 south of Bealville.
+Kern County 2 NW Cantil 20 1210PST 0 0 0.00K 0.00K Flood California Highway Patrol reported Highway 14 was closed near Redrock Randsburg Road due to flooding near Cantil.
+Kern County 1 E Cawelo 20 1212PST 0 0 0.00K 0.00K Flood California Highway Patrol reported State Route 99 offramp at Lerdo Road was flooded in Bakersfield.
+Kern County 2 NNW Di Giorgio 20 1235PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Mountain View Road near Comanche Drive northeast of Lamont Road.
+Fresno County 6 NW Panoche Jct 20 1240PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Hudson Avenue near Manning Road southeast of Chaney Ranch.
+Kern County 2 ESE Edison 20 1307PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Edison Highway near Comanche Road east of Edison.
+Kern County 1 E Bakersfield East 20 1323PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Chamberlain Avenue near Harold Way east of Bakersfield.
+Kern County 1 SSW Magunden 20 1424PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Kimber Avenue near Highway 58 southeast of Algoso.
+Fresno County 6 SE Cantua Creek 20 1518PST 0 0 0.00K 0.00K Flood California Highway Patrol reported Mt Whitney Avenue closed near Sonoma Avenue due to flooding west of Five Points.
+Merced County 2 NNE Los Banos 20 1519PST 0 0 0.00K 0.00K Flood California Highway Patrol reported half of Henry Miller Avenue was flooded west of State Route 165 north of Los Banos.
+Kern County 4 W Buttonwillow 20 1645PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Lokern Road near Highway 58 west of Buttonwillow.
+Merced County 2 SW Livingston 20 1738PST 0 0 0.00K 0.00K Flood California Highway Patrol reported 6 to 8 inches of water on Westside Boulevard near Robin Avenue southwest of Livingston.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+50
+CALIFORNIA, South Central
+Fresno County 1 ESE Melvin 21 0800PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter reported a 24 hour rainfall total of 0.25 inches near Clovis in Fresno County.
+A nearly stationary cold low pressure system from the Pacific Northwest moved into central California and tropical moisture being fed from the Pacific with a continued  atmospheric river set-up, brought thunderstorms and heavy rainfall to the Sierra Nevada Mountains and Foothills and parts of the San Joaquin Valley over several days. Small pea-sized hail was also reported with some of the thunderstorms.
+
+CAZ096-097 South Sierra Mountains - Tulare County Mountains
+21 22
+0800PST 0 0 Heavy Snow
+Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+Mariposa County 2 E Elliott Corner 21 0815PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter reported a 24 hour rainfall total of 2.04 inches near Ponderosa Basin in Mariposa County.
+Kings County 1 SW Cimarron 21 0819PST 0 0 0.00K 0.00K Heavy Rain Trained Spotter reported a 24 hour rainfall total of 0.45 inches near Lemoore in Kings County.
+Madera County 1 S Chowchilla Arpt 21 0823PST 0 0 0.00K 0.00K Heavy Rain Public report of a 24 hour rainfall total of 0.11 inches near Chowchilla in Madera County.
+A nearly stationary cold low pressure system from the Pacific Northwest moved into central California and tropical moisture being fed from the Pacific with a continued  atmospheric river set-up, brought thunderstorms and heavy rainfall to the Sierra Nevada Mountains and Foothills and parts of the San Joaquin Valley over several days. Small pea-sized hail was also reported with some of the thunderstorms.
+
+CAZ091-095 Kern County Mountains - Southwest San Joaquin Valley
+22 0413PST 0900PST 0 0 2.0K High Wind
+A final storm system in a series of systems moved through central California bringing strong gusty winds to parts of the San Joaquin Valley and Kern County Mountain areas.
+
+CAZ093-096-097 South Sierra Foothills - South Sierra Mountains - Tulare County Mountains
+22 23
+0800PST 0 0 Heavy Snow
+Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+
+CAZ091 Southwest San Joaquin Valley
+22 0838PST 0848PST 0 0 High Wind
+A final storm system in a series of systems moved through central California bringing strong gusty winds to parts of the San Joaquin Valley and Kern County Mountain areas.
+Kern County 4 NE Lake Isabella 22 1646PST 0 0 150.00K 0.00K Flood California Highway Patrol reported Lynch Canyon Road with 1 to 2 inches of roadway flooding near State Route 178 in Mountain Mesa.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+51
+CALIFORNIA, South Central
+Fresno County 1 S Shaver Lake Hgts 1 NNE Ockenden
+22 1648PST 0 0 0.00K 0.00K Flood
+California Highway Patrol reported road flooding on Crest Point Lane near Ockenden Ranch Road in Ockenden.
+Kern County 8 S Havilah 22 1649PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Johns Road near Williams Road south of Havilah.
+A nearly stationary cold low pressure system from the Pacific Northwest moved into central California and tropical moisture being fed from the Pacific with a continued  atmospheric river set-up, brought thunderstorms and heavy rainfall to the Sierra Nevada Mountains and Foothills and parts of the San Joaquin Valley over several days. Small pea-sized hail was also reported with some of the thunderstorms.
+
+CAZ095 Kern County Mountains
+23 0232PST 0 0 High Wind A final storm system in a series of systems moved through central California bringing strong gusty winds to parts of the San Joaquin Valley and Kern County Mountain areas.
+Kern County 1 W Cantil 23 0536PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding near Neurailia Road and Rogers Road just southwest of Cantil.
+Colder air moving behind a low pressure system allowed an increase in instability across the San Joaquin Valley which created thunderstorms with heavy rains. Heavy rains coupled with already saturated soils caused some flooding of roads and low lying areas.
+
+CAZ093 South Sierra Foothills
+23 0704PST 0 0 Winter Weather Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+Madera County 1 S Chowchilla Arpt 23 0800PST 0 0 0.00K 0.00K Heavy Rain Trained spotteer report of measured 24 hour rainfall total of 0.45 inches in Chowchilla.
+Colder air moving behind a low pressure system allowed an increase in instability across the San Joaquin Valley which created thunderstorms with heavy rains. Heavy rains coupled with already saturated soils caused some flooding of roads and low lying areas.
+
+CAZ095-097 Kern County Mountains - Tulare County Mountains
+23 24
+0800PST 0 0 Heavy Snow
+Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+Kern County Lamont 23 0825PST 0 0 0.00K 0.00K Flood California Highway Patrol reported road flooding at the intersection of Panama Road and Velma Avenue in Lamont.
+Madera County 3 WSW Oneals 23 0900PST 0 0 0.00K 0.00K Heavy Rain Trained spotter report of measured 24 hour rainfall total of 0.93 inches south of Yosemite Lakes.
+Colder air moving behind a low pressure system allowed an increase in instability across the San Joaquin Valley which created thunderstorms with heavy rains. Heavy rains coupled with already saturated soils caused some flooding of roads and low lying areas.
+
+CAZ096 South Sierra Mountains
+23 1204PST 0 0 Heavy Snow Cold low pressure system moved into central California bringing heavy snowfall to parts of the Sierra Nevada and Kern County Mountains along with wintry weather to the Sierra Foothills.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+52
+CALIFORNIA, South Central
+Madera County 8 ENE Gregg 23 1207PST 0 0 0.00K 0.00K Flood California Highway Patrol reported water flowing off of field and onto Avenue 12  north of Rolling Hills.
+Tulare County 1 SSW Elderwood 23 1228PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding on Avenue 364 near Road 200 intersection south of Elderwood.
+Tulare County 1 NW Cameron Creek Colony 23 1241PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding with 1 to 2 feet of water at off ramp of State Route 198 near Avenue 296 in Cameron Creek Colony area.
+Tulare County 2 W Elderwood 23 1334PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding near State Route 201 and Piedra  Avenue west of Elderwood.
+Kern County 2 NNE Ribier 23 1353PST 0 0 0.00K 0.00K Flood Public reported roadway flooding near Malaga Road and Mountain View Road intersection due to runoff from nearby farm fields near Lamont in Kern County.
+Tulare County 1 E Strathmore Jct 23 1454PST 0 0 0.00K 0.00K Flood California Highway Patrol reported mud in road from heavy rainfall near Road 256 and 7th Avenue east of Strathmore.
+Kern County 3 ENE Delano 23 1515PST 0 0 0.00K 0.00K Flood California Highway Patrol reported roadway flooding near Avenue O and Veneto Street in Delano.
+Colder air moving behind a low pressure system allowed an increase in instability across the San Joaquin Valley which created thunderstorms with heavy rains. Heavy rains coupled with already saturated soils caused some flooding of roads and low lying areas.
+
+CAZ091-092 Southeast San Joaquin Valley - Southwest San Joaquin Valley
+29 0230PST 1015PST 0 0 Dense Fog
+30 0050PST 1110PST 0 0 Dense Fog
+
+CAZ091-092 Southeast San Joaquin Valley - Southwest San Joaquin Valley
+30 0150PST 0810PST 0 0 Dense Fog
+
+CAZ090-091 East Central San Joaquin Valley - Southwest San Joaquin Valley
+31 0025PST 0722PST 0 0 119.0K Dense Fog
+High pressure with clearing skies over the region coupled with recent heavy precipitation created ideal conditions for dense nighttime and morning radiational fog to develop.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+53
+CALIFORNIA, Southeast San Bernardino County 3 E Yermo 3 N Minneola
+01 0641PST 0730PST 0 0 1.00K 0.00K Flash Flood
+A car was stuck in rushing water on Minneola Road.
+
+CAZ520 Owens Valley
+01 2142PST 2342PST 0 0 0.00K 0.00K High Wind
+02 1343PST 1642PST 0 0 30.0K 0.00K High Wind
+A Pacific storm system and associated cold front brought high winds to the Owens Valley, and isolated flash flooding to the Mojave Desert.
+
+CAZ519 Eastern Sierra slopes of Inyo County
+03 04
+1600PST 1000PST 0 0 0.00K 0.00K Heavy Snow
+Another Pacific storm followed immediately behind the previous one, bringing heavy snow to the Sierra Nevada.
+
+CAZ519-520 Eastern Sierra slopes of Inyo County - Owens Valley
+07 0600PST 2200PST 0 0 55.0K 0.00K Ice Storm
+Inyo County 1 NW Olancha 07 1509PST 1600PST 0 0 0.00K 0.00K Flood
+Water was over Highway 395 in two places near Olancha, but the road was still passable.
+An atmospheric river made landfall in California, while cold and dry air remained trapped in the Owens Valley. This resulted in the first known freezing rain event in the WFO Las Vegas CWA since record keeping began.
+
+CAZ520 Owens Valley
+09 10
+2032PST 1422PST 0 0 40.0K 0.00K High Wind
+
+CAZ519 Eastern Sierra slopes of Inyo County
+10 11
+1400PST 0800PST 0 0 0.00K 0.00K Heavy Snow
+Yet another Pacific storm system brought high winds to the Owens Valley and heavy snow to the Sierra Nevada.
+18 19
+1500PST 0900PST 0 0 0.00K 0.00K Heavy Snow
+
+CAZ519-522 Death Valley National Park - Eastern Sierra slopes of Inyo County - Owens Valley
+22 0100PST 0600PST 0 0 1.0K 0.00K Heavy Snow
+Several closely spaced storm systems passed through the Mojave Desert, bringing widespread heavy snow to the higher terrain and isolated flooding problems to the lower elevations.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+54
+CALIFORNIA, Southwest                             
+
+CAZ055 San Bernardino County Mountains
+08 09
+2051PST 0451PST 0 0 High Wind
+San Diego County 3 NE Fallbrook 09 0825PST 0835PST 0 0 Heavy Rain
+An 80 ft oak tree fell on a mini van killing the driver. Saturated soils were likely an influencing factor. Winds were light at the time. A series of troughs and associated Pacific fronts swung through the region between the 5th and 9th of January, bringing largely beneficial rains, high elevation snow, and strong inland winds. Rainfall west of the mountains caused some minor urban flooding, but overall impacts were limited by low rain rates over an extended period. Rain totals ranged from 6-7 inches along the coastal slopes to 1-2 inches near the coast. Peak westerly wind gusts along the desert slopes were mostly in the 45-65 mph range, though a surfacing mountain wave in Burns Canyon produced a very impressive 107 mph wind gust.
+
+CAZ055 San Bernardino County Mountains
+12 13
+0500PST 2200PST 0 0 Heavy Snow
+
+CAZ043 San Diego County Coasts
+12 0730PST 0930PST 0 0 Coastal Flood
+
+CAZ056 Riverside County Mountains
+12 13
+1200PST 0900PST 0 0 10.0K Heavy Snow
+Orange County Corona Del Mar 1 SSW Santa Ana Hgts
+12 1230PST 1400PST 0 0 0.00K 0.00K Flood
+Minor street flooding from Newport Beach to Fountain Valley. A tree was uprooted near the Orange County Fairgrounds, likely due to a combination of saturated soil and gusty winds.
+San Bernardino County 1 E Crown Jewell 2 NNE East Highlands
+12 1400PST 1900PST 0 0 0.00K 0.00K Flood
+Numerous reports of urban street flooding throughout the Inland Empire that produced significant impacts for the evening commute. The HOV lane along Interstate 60 was closed due to flooding.
+Riverside County El Cerrito 1 NNW Norco
+12 1500PST 1900PST 0 0 0.00K 0.00K Flood
+Numerous reports of urban street flooding throughout the Inland Empire that produced significant impacts for the evening commute. After a brief lull in activity, a second series of troughs and Pacific fronts moved through the region between the 10th and 14th of January. Rainfall totals ranged from 0.50-1.5 inches at the coast, to 4-6 inches along the coastal slopes, to 0.25-1 inches in the deserts. Snow levels in the mountains fell as low as 4,000 ft, with up to 2 ft of new snow on the highest peaks. Strong winds occurred along the deserts slopes, though peak gusts were limited to the 45-60 mph range.  Impacts ranged from minor urban flooding reported in the coast and valleys, to chain restrictions in the mountains.
+
+CAZ055 San Bernardino County Mountains
+18 19
+1800PST 0900PST 0 0 Winter Weather
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+55
+CALIFORNIA, Southwest
+
+CAZ056 Riverside County Mountains
+18 19
+2000PST 0900PST 0 0 Heavy Snow
+
+CAZ055-056 Riverside County Mountains - San Bernardino County Mountains
+20 21
+0230PST 0100PST 0 0 Heavy Snow
+20 0700PST 1800PST 0 0 High Wind
+
+CAZ043-048-552554
+Orange County Coastal - Orange County Inland - San Bernardino County Valley/The Inland Empire San Diego County Coasts
+20 21
+0900PST 0800PST 0 4 1.18M Strong Wind
+Riverside County 5 NNE Murrietta Arpt 5 S Winchester
+20 1145PST 1545PST 0 10 0.00K 0.00K Flood
+CHP reported 6 flooded roadways in Paloma Valley with one vehicle briefly stranded.
+Orange County 2 WNW Newport Beach 1 ESE Santa Ana
+20 1245PST 1330PST 0 0 25.00K Thunderstorm Wind (56EG)
+A severe squall moved from Newport Beach to Santa Ana, downing multiple trees, knocking out power to 63 homes and causing minor roof damage. Note: The estimated wind gust of 56 knots is equivalent to 64 mph.
+
+CAZ050 San Diego County Valleys
+20 21
+1300PST 0400PST 0 0 100.0K Strong Wind
+San Diego County 3 N Agra 3 WSW De Luz
+20 1305PST 1335PST 0 0 Thunderstorm Wind (61MG)
+A severe squall produced 60-70 mph wind gusts over northern Camp Pendleton. A peak gust of 70 mph was measured at Mateo Ridge with an additional 64 mph gust recorded at Case Springs.
+ Note: The measured wind gust of 61 knots is equivalent to 70 mph.
+Riverside County 3 WSW Arcilla 20 1316PST 1416PST 0 0 3.00K 0.00K Thunderstorm Wind (58MG)
+The Lake Matthews Raws station reported a 67 mph gust between 1316 and 1416 PST. In Temescal Valley a large tree was blown down blocking the Knabe Rd. near Clay Canyon Dr. Note: The measured wind gust of 58 knots is equivalent to 67 mph.
+San Diego County 1 NNE Encinitas 1 SW Del Dios
+20 1410PST 1435PST 0 0 15.00K 0.00K Thunderstorm Wind (56MG)
+A squall produced a short burst of 50-65 mph winds between Cardiff by the Sea and Lake Hodges. The mesonet station at Elfin Forest reported a peak wind gust of 64 mph. Tree damage was also reported.
+ Note: The measured wind gust of 56 knots is equivalent to 64 mph.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+56
+CALIFORNIA, Southwest
+San Diego County 1 SSW La Mesa 20 1430PST 1530PST 0 0 15.00K 0.00K Flash Flood
+A swift water rescue to save 2 people and a dog was conducted at the intersection of University Ave. and Aragon Dr. in the neighborhood of Rolando.
+San Diego County 30 NNE Rainbow 20 1430PST 1730PST 0 0 10.00K 0.00K Flash Flood
+Widespread flooding occurred near Gilman Springs Rd. and Soboba Rd. in San Jacinto with multiple water rescues conducted.
+San Diego County 1 SSW Imperial Beach 6 N Dulzura
+20 1435PST 1515PST 0 1 1.00M Thunderstorm Wind (61MG)
+A severe squall produced a swath of 60-70 mph winds from Imperial Beach to Lawson Creek. At least 6 mesonet stations reported peak wind gusts in excess of 58 mph including a 68 mph gust at Lawson Creek and 64 mph gust at Boarder Field. Hundreds of trees were downed. Roof damage was also reported. One person was injured when a tree fell on their car in Lakeside.
+ Note: The measured wind gust of 61 knots is equivalent to 70 mph.
+San Diego County 2 ESE Sorrento 20 1500PST 1900PST 0 0 15.00K 0.00K Flash Flood
+Rapid water rises after 1500PST flooded parts of Carroll Canyon Rd with 1-2 ft of rushing water. The flow carried dumpsters and debris. Three people were trapped in their vehicle that stalled as the water rose rapidly, resulting in multiple swift water rescues around 1530PST.
+San Diego County 1 WNW Grantville Overlook
+20 1530PST 2130PST 0 0 100.00K 0.00K Flash Flood
+Multiple low water crossings were closed due to rapid rises in the San Diego River, including Camino Del Rio and Ward Rd. Several cars were submerged by the rapidly rising waters. The Fashion Valley Transit Center was closed due to flooding. The river peaked at 0215PST on the 21st with a crest of 11.81 ft.
+A picture of multiple cars submerged by rapid rises from the San Diego River in San Diego County, California on January 20th, 2017. Photo courtesy of NWS.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+57
+CALIFORNIA, Southwest
+San Diego County 4 ENE De Luz 20 1600PST 1800PST 0 0 5.00K 0.00K Flash Flood
+The CHP reported a vehicle in jeopardy of being washed off a bridge near Sandia Creek Dr. and Rock Mountain Rd.
+
+CAZ043-552 Orange County Coastal - San Diego County Coasts
+20 24
+1600PST 2 3 High Surf
+San Diego County 4 NE Clover Flat 3 WNW Live Oak Spgs
+20 1630PST 1830PST 0 0 10.00K 0.00K Debris Flow
+A mud slide blocked both lanes of Old Highway 80.
+San Diego County 1 SW Fallbrook Jct 20 21
+1700PST 1200PST 0 0 0.00K 0.00K Flood
+The Santa Margarita River river gauge at Ysidora recorded a crest of 14.60 ft at 2345PST. This was the 6th highest crest on record and exceeded moderate flood stage by 1.3 ft. Impacts to Camp Pendleton Marine Corps Base are unknown.
+San Diego County 1 NW East San Diego 20 1800PST 2100PST 0 0 50.00K 0.00K Flash Flood
+Six feet of water inundated an apartment building in City Heights on 48th street. One family nearly drowned due to the flood.
+Riverside County 1 WNW Indian Wells 2 W La Quinta
+20 23
+1800PST 1200PST 0 0 0.00K 0.00K Flood
+Heavy mountain rain produced flows in the Whitewater River and Palm Canyon Creek that lead to periodic closures of low water crossings in the Coachella Valley, including: Golf Club Dr., Gene Autry Trail., Indian Canyon Dr., Vista Chino Rd., Frank Sinatra Dr., Araby Dr. and Vista Chino.
+A picture of flooding from the Whitewater River along Araby Drive in Riverside County, California on  January 23rd, 2017. Photo courtesy of the Palm Spring Emergency Manager.
+
+CAZ055 San Bernardino County Mountains
+21 23
+2330PST 2030PST 0 0 Heavy Snow
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+58
+CALIFORNIA, Southwest
+A picture of large piles of snow in the Big Bear Area in Riverside County, California caused visibility issues for drivers on January 23rd, 2017. Photo courtesy of NWS.
+
+CAZ056 Riverside County Mountains
+22 23
+0100PST 2100PST 0 0 Heavy Snow
+
+CAZ060 Apple and Yucca Valleys
+22 0900PST 1700PST 0 0 4.0K 0.00K High Wind
+Riverside County 3 S Temecula Rnch Cal Ar 2 ESE Temecula
+22 1430PST 1930PST 0 1 0.00K 0.00K Flash Flood
+Rapid water rises along Temecula Creek caused flooding in south Temecula. Firefighters rescued a woman stranded on a small island in Temecula Creek. The woman was transported to the hospital with minor injuries.
+San Bernardino County 1 S Devore 1 E Scotland
+22 1500PST 2000PST 0 0 25.00K 0.00K Flash Flood
+Excessive rain induced flash flooding in the Cajon Wash. A swift water rescue was conducted to pull 2 people from the wash near Swarthout Canyon Road. Further south along the wash, San Bernardino County Public Works closed Glen Helen Pkwy. from Glen Helen Rd. to Cajon Blvd. for an extended period.
+Orange County 1 WSW Crystal Cove 1 SSE East Irvine
+22 1515PST 1715PST 0 0 100.00K 0.00K Flash Flood
+Widespread heavy rain brought flash flooding to a large portion of Orange County. A water rescue occurred on Hamilton Ave. at the Santa Ana River in Huntington Beach. Numerous streets from Sunset Beach to Santa Ana to Newport Beach were also flooded with 1-3 ft of water. Numerous reports of vehicles stranded in flood waters were received, including half a dozen along Highway 55.
+Orange County 1 E Galivan 22 1520PST 1630PST 0 0 30.00K 0.00K Flood
+CHP reported 3 vehicles submerged and stuck in water on Antonio Pkwy. in Las Flores.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+59
+CALIFORNIA, Southwest
+San Diego County 1 N Rainbow 22 1530PST 1730PST 2 0 10.00K 0.00K Flash Flood
+A swift water rescue team pulled a man from a submerged car in a small creek near Old Highway 395 and 5th St. in Rainbow. A young boy, also in the car, was swept down stream before rescuers arrived. The boys body was recovered on the 26th. M5VE, M73VE
+San Diego County 1 NW Pala 22 1600PST 1900PST 0 0 5.00K 0.00K Flash Flood
+Pala Temecula Rd. was closed due to flooding and rocks in the roadway.
+San Bernardino County 4 E Phelan 6 N Summit
+22 1630PST 1830PST 0 0 0.00K 0.00K Flash Flood
+Heavy mountain rain drained into the deserts leading to flooding along several area roadways. A closure occurred along Highway 18 west of Victorville due to flooding across all lanes.
+Riverside County Sun City 22 1640PST 1740PST 0 0 0.00K 0.00K Flash Flood
+Swift water rescue conducted near North Golf Course in Sun City.
+Riverside County 2 N Pedley 22 1645PST 1715PST 0 0 0.00K 0.00K Flash Flood
+Cal Fire reported of a swift water rescue along the Pyrite Channel near Van Buren Blvd.
+San Diego County 4 NW Pauma Vly 22 1700PST 1900PST 0 0 0.00K 0.00K Flash Flood
+Roadway closure due to flooding on Cole Grade Rd.
+San Bernardino County 2 WNW Cedarpines Park 22 23
+2000PST 0000PST 0 0 10.00K 0.00K Flash Flood
+Roadway closure at the intersection of Highway 138 and 173 with a swift water rescue and 2 vehicles stranded in flood waters.
+Riverside County 1 W Alberhill 23 0430PST 0600PST 0 0 40.00K 0.00K Flash Flood
+Cal Fire and Riverside County Firefighters conducted 2 water rescues along the Temescal Wash in Alberhill near the intersection of Hostettler Rd. and Temescal Canyon Rd. Four vehicles were stranded in 2-3 ft of water.
+After a wet start to the month, a series of 3 storms traversed the region between the 19th and 24th of January. The storms produced flooding rains, extreme mountain snowfall, and strong winds from the coast to the deserts. Rainfall for the 6 day period reached 10-13 inches along the coastal slopes from San Bernardino to San Diego County. Over the coast and valleys 2-7 inches of rain occurred with 0.5-3 inches in the deserts. Snow accumulated to elevations as low as 4,000 ft with 2-5 feet of snow above 5,500 feet and as much as 6 feet on the highest peaks. Strong synoptic and squall induced winds combined with saturated soils to down hundreds of trees over the coast and valleys on the 20th. Damages from downed trees was in the millions of dollars. In the City of San Diego 29 high water rescues were conducted on the 20th alone. The governor declared a State of Emergency in San Diego County.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+60
+CALIFORNIA, Southwest
+
+CAZ060 Apple and Yucca Valleys
+23 0500PST 2100PST 0 0 50.0K Winter Weather
+Heavy snows over the prior week produced an avalanche near Mt. Baldy on January 26th that trapped 3 hikers. Two of the hikers were injured. San Bernardino County Fire rescued the hikers via helicopter and transported them for medical attention. Further south in San Diego County, lingering moisture from prior storms produced convective snow showers over the mountains. Snowfall accumulations of 1-3 inches were reported along with a closure of Interstate 8.
+San Bernardino County 2 SW Chino Arpt 23 1715PST 1915PST 0 0 0.00K 0.00K Flash Flood
+Highway 83 between Pine Ave. and Highway 71 closed due to flooding along Chino Creek.
+San Bernardino County 3 E Hesperia 23 1800PST 2100PST 0 0 0.00K 0.00K Flood
+Heavy mountain rains produced flows from the Mojave Dam. Flow through the Mojave River lead to a closure of Rock Springs Rd. due to 6-8 inches of water flowing over the low water crossing.
+After a wet start to the month, a series of 3 storms traversed the region between the 19th and 24th of January. The storms produced flooding rains, extreme mountain snowfall, and strong winds from the coast to the deserts. Rainfall for the 6 day period reached 10-13 inches along the coastal slopes from San Bernardino to San Diego County. Over the coast and valleys 2-7 inches of rain occurred with 0.5-3 inches in the deserts. Snow accumulated to elevations as low as 4,000 ft with 2-5 feet of snow above 5,500 feet and as much as 6 feet on the highest peaks. Strong synoptic and squall induced winds combined with saturated soils to down hundreds of trees over the coast and valleys on the 20th. Damages from downed trees was in the millions of dollars. In the City of San Diego 29 high water rescues were conducted on the 20th alone. The governor declared a State of Emergency in San Diego County.
+
+CAZ055 San Bernardino County Mountains
+26 1515PST 1545PST 0 2 Avalanche
+Heavy snows over the prior week produced an avalanche near Mt. Baldy on January 26th that trapped 3 hikers. Two of the hikers were injured. San Bernardino County Fire rescued the hikers via helicopter and transported them for medical attention. Further south in San Diego County, lingering moisture from prior storms produced convective snow showers over the mountains. Snowfall accumulations of 1-3 inches were reported along with a closure of Interstate 8.
+
+CAZ057-058 San Diego County Mountains - Santa Ana Mountains and Foothills
+27 0600PST 1000PST 0 0 High Wind
+
+CAZ043-552-554 Orange County Coastal - Orange County Inland - San Diego County Coasts
+27 0700PST 1000PST 0 0 47.0K Strong Wind
+
+CAZ048-050-058 San Bernardino County Valley/The Inland Empire - San Diego County Mountains - San Diego County Valleys
+27 0810PST 2300PST 0 1 43.0K High Wind
+A strong 1051 mb surface high settled over the Great Basin, resulting in strong winds through the passes and canyons of Southern California. The most widespread winds occurred on the 27th. The winds downed trees from the mountains to the coast, flipped big rigs and induced temporary road closures. Tree damage was likely augmented by saturated soils caused by heavy rains over the prior week.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+61
+CALIFORNIA, Southwest
+
+CAZ043 San Diego County Coasts
+31 0515PST 2359PST 0 0 0.00K Dense Fog
+A ridge of high pressure suppressed the marine layer, allowing a bank of dense fog to roll into San Diego International on the evening of the 31st. Numerous flight cancellations and delays occurred.
+CALIFORNIA, Upper
+
+CAZ080>085 Central Siskiyou County - Modoc County - North Central & Southeast Siskiyou County - Northeast Siskiyou and Northwest Modoc Counties - South Central Siskiyou County - Western Siskiyou County
+03 04
+1000PST 1900PST 0 0 0.00K 0.00K Winter Storm
+Two fronts combined with an usually cold air mass already in place to bring heavy snow to many portions of northern California. This storm had an unusually severe impact due to the low snow levels, all the way down into the deepest valleys. Some areas that usually only get a few inches of snow in a season got as much as two feet over several days. There were numerous reports of power outages and tree damage. Traffic along major highways, including Interstate 5, was shut down at times, and there were numerous traffic accidents. Many people were stranded on the roads or in their homes. There were widespread school closures, many closed for the entire week.
+
+CAZ082 South Central Siskiyou County
+07 0000PST 1137PST 0 0 0.00K 0.00K Heavy Snow
+Another in a series of strong storms brought heavy snow to northern California. Many motor vehicle collisions and power outages were reported.
+Siskiyou County 2 SW Hotlum 3 SSE Big Spgs
+08 0918PST 1515PST 0 0 0.00K 0.00K Flood
+Caltrans reported water blocking portions of Highway 97.  A rock slide was also blocking most of Highway 96 two miles upriver from Beaver Creek.
+Modoc County 1 ENE Adin Muni Arpt 3 ENE Canby
+08 09
+2100PST 0300PST 0 0 0.00K 0.00K Flood
+At 08/2102 PST, law enforcement and spotters reported flooding near Adin California.  Water was flowing across streets and into some homes. Flooding was also reported on the highway between Alturas and Canby and on highway 395 1SSW of Davis Creek.  One to two inches of rain fell over the area this day onto heavy snow already on the ground.  The snow clogged drains and other outlets, leading to flooding on Ash Creek and Dry Creek. A mudslide on highway 299 at Adin Pass reduced the road to one lane.
+Heavy rain and snow fell on areas where heavy snow was already on the ground, and drainage issues led to flooding on creeks in the area.
+16 1004PST 1103PST 0 0 0.00K 0.00K High Wind
+This was another in a series of storms. This one was marginal in terms of strong winds, but one station did record high winds.
+
+CAZ081 Central Siskiyou County
+17 18
+2249PST 0048PST 0 0 0.00K 0.00K High Wind
+An incoming storm brought high winds to the Shasta Valley in northern California.
+
+CAZ082 South Central Siskiyou County
+18 19
+0500PST 0700PST 0 0 0.00K 0.00K Heavy Snow
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+62
+CALIFORNIA, Upper
+Yet another storm brought more heavy snow to areas that have been inundated with heavy snow from previous storms.
+19 20
+1800PST 0930PST 0 0 0.00K 0.00K Heavy Snow
+Yet another in a series of winter storms brought more heavy snow to northern California.
+21 22
+1700PST 1300PST 0 0 0.00K 0.00K Heavy Snow
+
+CAZ082-083 North Central & Southeast Siskiyou County - South Central Siskiyou County
+22 0000PST 1930PST 0 0 0.00K 0.00K Heavy Snow
+The penultimate in a long series of winter storms brought more heavy snow to northern California.
+CALIFORNIA, West South Central
+Los Angeles County 1 ENE Las Lomas 2 N Azusa
+12 1441PST 1540PST 0 0 0.00K 0.00K Flash Flood
+Strong thunderstorms brought heavy rain to the Fish burn scar. The heavy rain produced mud and debris flows which impacted Encanto Parkway in the city of Azusa. Strong thunderstorms moved over the Los Angeles county area, bringing heavy rain to the area. Near the Fish burn scar, the heavy rain produced flash flooding and mud and debris flows in the city of Azusa.
+Santa Barbara County Capitan 20 1000PST 1230PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain generated flash flooding across southern Santa Barbara county, impacting El Capitan Canyon Resort near the Sherpa burn scar. In the private campground, 70 people were evacuated while the combination of 8 cabins and vehicles were flooded.
+Los Angeles County 1 NE Lang 20 1259PST 1345PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain produced flash flooding as well as mud and debris flows near the Sand burn scar. Soledad Canyon Road was closed due to mud and debris flows and one vehicle was stuck in the mud.
+Los Angeles County 1 ENE Las Lomas 20 1315PST 1500PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain produced flash flooding as well as mud and debris flows near the Fish burn scar. Mud and debris flows closed down areas around the intersection of Melcanyon and Brookridge Roads in the city of Duarte.
+
+CAZ052 Santa Barbara County Mountains
+20 1447PST 1547PST 0 0 0.00K 0.00K High Wind
+A powerful winter storm moved across Southern California, bringing heavy rain, flash flooding and strong winds to the area. Flash flooding as well as mud and debris flows were reported in and around the recent burn areas of Santa Barbara and Los Angeles counties. In the mountains, strong and gusty southerly winds were reported.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+63
+CALIFORNIA, West South Central
+
+CAZ034 San Luis Obispo County Central Coast
+21 1100PST 1200PST 2 0 0.00K 0.00K High Surf
+Very high surf conditions (25-28 feet) developed along the Central Coast. The high surf swept a man off the rocks near Morro Rock.  M65IW
+
+CAZ052>054 Los Angeles County Mountains Excluding the Santa Monica Range - Santa Barbara County Mountains Ventura County Mountains
+22 0906PST 1800PST 0 0 0.00K 0.00K High Wind
+Los Angeles County 2 SSE Carson 2 WNW Long Beach
+22 1439PST 1600PST 0 0 0.00K 0.00K Flash Flood
+Flash flooding was reported at the intersection of the Pacific Coast Highway and Interstate 710.
+
+CAZ054 Los Angeles County Mountains Excluding the Santa Monica Range
+22 23
+1900PST 1500PST 0 0 0.00K 0.00K Winter Storm
+Santa Barbara County 3 SE Tangair Station 3 ENE Van Denberg Vlg
+23 0540PST 0545PST 0 0 0.00K 0.00K Funnel Cloud
+A weather spotter reported a funnel cloud over Vandenberg Air Force Base.
+Another powerful winter storm brought heavy rain and snow as well as strong winds to the areas. Overall, two to six inches of rain fell across the area. This heavy rain resulted in flash flooding across southern Los Angeles county. In the mountains, strong southerly winds were reported as well as significant snowfall at the resort level.
+
+CAZ046-053-054 Los Angeles County Mountains Excluding the Santa Monica Range - Santa Monica Mountains Recreation Area - Ventura County Mountains
+27 0353PST 1800PST 0 0 0.00K 0.00K High Wind
+Strong Santa Ana winds developed across Ventura and Los Angeles counties. Northeast wind gusts up to 76 MPH were reported.
+CALIFORNIA, Western
+Sonoma County 1 W Rio Nido 03 0511PST 0611PST 0 0 0.00K 0.00K Debris Flow
+Mud dirt rocks on roadway. Rio Nido Road and Armstrong Road.
+Alameda County 1 N Niles 03 0547PST 0647PST 0 0 0.00K 0.00K Debris Flow
+State route 84 and Palomares Road. Mud and rocks blocking east bound side.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+64
+CALIFORNIA, Western
+Napa County 6 NE Imola 03 0551PST 0651PST 0 0 0.00K 0.00K Debris Flow
+Mud and rocks in roadway. State route 121 at wild horse.
+Santa Cruz County Mt Hermon 03 0605PST 0705PST 0 0 0.00K 0.00K Debris Flow
+Mud/dirt/rocks in south bound lane at SR 9 and Felton Empire Road.
+
+CAZ509-511 East Bay Hills and the Diablo Range - San Francisco Peninsula Coast
+03 0709PST 0822PST 0 0 2.0K 0.00K Strong Wind
+
+CAZ509-513-529 Northern Monterey Bay - San Francisco Peninsula Coast - Santa Clara Valley Including San Jose
+03 0822PST 1051PST 0 0 0.00K 0.00K High Wind
+Sonoma County 1 W Windsor 03 1740PST 1840PST 0 0 0.00K 0.00K Flood
+Roadway flooding. Eastside Road and Windsor River Road. Approximately 18 inches of water across lanes.
+Sonoma County 2 NNW Trenton 03 1805PST 1905PST 0 0 0.00K 0.00K Flood
+Eastside road at Trenton Healdsburg Road entire roadway flooded.
+Santa Clara County 1 NNW Campbell 03 2007PST 2107PST 0 0 0.00K 0.00K Flood
+Roadway flooding. 1 foot deep in right lane of I-280 and Saratoga Ave.
+Napa County 1 E Yountville 03 04
+2358PST 0058PST 0 0 0.00K 0.00K Flood
+Two feet of water in the road near Heather and Oak Circle. Road has been temporarily closed.
+Sonoma County 2 W Cotati 1 SSW Hessel
+04 0200PST 1000PST 0 0 5.00K 5.00K Flash Flood
+Colgan Creek near Sebastopol went above flood stage.
+Santa Cruz County 1 SW Santa Cruz 04 0208PST 0308PST 0 0 0.00K 0.00K Debris Flow
+Tree down and heavy debris/mud slide across entire roadway.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+65
+CALIFORNIA, Western
+Sonoma County 4 ESE Mark West Spgs 04 0247PST 0347PST 0 0 0.00K 0.00K Debris Flow
+Entire lane blocked by debris WB Calistoga Rd and Gates Rd.
+San Francisco County 3 ENE San Francisco 04 0319PST 0419PST 0 0 0.00K 0.00K Flood
+Water a couple of feet high 2 right lanes nb 101 eb 80 connection.
+Monterey County 2 SE Elkhorn 04 0347PST 0447PST 0 0 0.00K 0.00K Flash Flood
+Three feet of water in roadway near Paradise Rd/Lakeview Dr intersection.
+Monterey County 4 SE Notleys Lndg 5 NW Big Sur
+04 0440PST 1040PST 0 0 5.00K 5.00K Debris Flow
+Rain gauges in the burn scar were experiencing rain rates between 0.75-1.5 per hour, exceeding pre-established thresholds for debris flows.  Damage are estimates.
+San Francisco County 2 E Ocean View 04 0455PST 0555PST 0 0 0.00K 0.00K Flood
+US 101 S and Paul Ave Offramp. Vehicles hydroplaning. Unknown depth, possibly several inches.
+Santa Clara County 1 NE Old Gilroy 04 0552PST 0652PST 0 0 0.00K 0.00K Flood
+WB SR152 and Ferguson. Flood water in area.
+Santa Cruz County 1 WNW Ben Lomond 04 1249PST 1359PST 0 0 0.00K 0.00K Debris Flow
+Rock and water on roadway at state route 9 and Woodland Dr.
+Santa Cruz County Felton 04 1251PST 1351PST 0 0 0.00K 0.00K Debris Flow
+Mud dirt and rock across roadway at Felton Empire Rd and Bennett Creek Trail.
+Santa Clara County Carnadero 1 SW Gilroy
+04 1530PST 1730PST 0 0 5.00K 5.00K Flash Flood
+Media reported flash flooding of Uvas Creek overflowing near Christmas Hill Park in Gilroy, CA. Damage are estimates.
+The first in a series of three atmospheric river events between January 2 and January 10. Strong winds, flooding, and debris flows occurred throughout this event. Snow was also recorded at higher elevations.
+
+CAZ510 East Bay Interior Valleys
+07 0700PST 0800PST 2 0 0.00K 0.00K High Wind
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+66
+CALIFORNIA, Western
+Alameda County Curtner 07 0730PST 0830PST 0 0 0.00K 0.00K Flood
+Localized flooding and intermittent heavy rains on Highway 880 at Mission Blvd exit caused fatal crash taking life of female driver.
+Monterey County 1 E (MRY)Monterey Arpt 08 0044PST 0144PST 0 0 0.00K 0.00K Flood
+Three to four feet of standing water at Casa Verde Road and SR 1N.
+Sonoma County 1 NW Penngrove 2 W Crown
+08 0330PST 1200PST 0 0 0.00K 0.00K Flash Flood
+Willow Brook at Penngrove Park stream gage rose above major flood stage.
+Sonoma County 1 WNW Kenwood 08 0700PST 0800PST 0 0 0.00K 0.00K Flash Flood
+Stream gage on Sonoma Creek at Kenwood exceeded flood stage between 7 and 8 am PST.
+Sonoma County 1 W Santa Rosa 08 0721PST 0821PST 0 0 0.00K 0.00K Flood
+Freeway shutdown at Hwy 101N due to flooding.
+Marin County 1 W Carte Madera 08 0810PST 0910PST 0 0 0.00K 0.00K Flood
+Water breached the bank at Corte Madera and is up to buildings.
+Marin County 1 SW San Rafael 08 0810PST 0910PST 0 0 0.00K 0.00K Flood
+Sea water breached San Rafael Marina and flooded parking lot.
+Sonoma County 1 NE Shiloh 08 0810PST 0910PST 0 0 0.00K 0.00K Flood
+Shiloh flooded at 101 N. Northbound on ramp from central Windsor closed.
+Sonoma County 1 NNW Trenton 08 0815PST 1645PST 0 0 0.00K 0.00K Flash Flood
+Mark West Creek stream gauge at Mirabel Heights exceeded flood stage starting at 8:15 am on January 8.
+Napa County 1 SSW Union 08 0832PST 0932PST 0 0 0.00K 0.00K Flood
+Brook wood Drive flooded near Brook wood Creek. Road closed until next week.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+67
+CALIFORNIA, Western
+Sonoma County Penngrove 08 0832PST 0932PST 0 0 0.00K 0.00K Flood
+Adobe Road at Petaluma Hilla Road in Penngrove flooded, not passable.
+Sonoma County 1 S Mark West Spgs 08 0917PST 1017PST 0 0 0.00K 0.00K Flood
+Creek flooding roadway at Mark West Springs Rd and Fox Hunt Ln.
+Napa County 1 SSW Krug 08 1049PST 1149PST 0 0 0.00K 0.00K Flood
+Deer Park Road between HWY 29 and Silverado Trail closed due to flooding. Yountville Cross road also impacted.
+Monterey County 6 WNW Lucia 08 1300PST 1400PST 0 0 0.00K 0.00K Debris Flow
+Anderson Peak Rain Gauge reported one hour rain rates of 0.75 which met predefined rates necessary for debris flows.
+Santa Clara County Morgan Hill 08 1353PST 1453PST 0 0 0.00K 0.00K Heavy Rain
+Precipitation 1.78 inches measured since 8 AM. Widespread minor flooding in Morgan Hill.
+Santa Clara County Morgan Hill 1 NE San Martin
+08 1630PST 1930PST 0 0 0.00K 0.00K Flash Flood
+Local law enforcement officials reported widespread flooding due to runoff from heavy rain.
+Monterey County Carmel Vly 08 09
+2300PST 0200PST 0 0 0.00K 0.00K Flash Flood
+Levee breach on the Carmel river near Paso Hondo in Carmel Valley village. Inundation from the levee breach impacted 20 to 30 homes. Swift water rescue underway.
+San Mateo County 1 SSW Sharp Park 09 0338PST 0538PST 0 0 0.00K 0.00K Debris Flow
+Pacifica Police department confirms, northbound lane is closed on highway 1 in Pacifica due to a landslide.
+Santa Cruz County 2 WNW Watsonville Muni Arp 09 0633PST 0833PST 0 0 0.00K 0.00K Debris Flow
+Mud 5 feet deep covering half road at Buena Vista Rd and Larken Valley Rd.
+Santa Cruz County 2 ESE Mission Spgs 09 0855PST 1055PST 0 0 0.00K 0.00K Debris Flow
+Large slide onto Hwy 17 north bound lanes closed.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+68
+CALIFORNIA, Western
+Potent atmospheric river bringing heavy rain, strong southerly winds, and storm surge issues. This AR is following a normal to slightly above normal 3 month period, meaning the grounds were saturated.
+Santa Clara County Los Gatos 10 1201PST 1401PST 0 0 0.00K 0.00K Flash Flood
+Los Gatos Creek flooding.
+Sonoma County 1 WSW Penngrove 2 ESE Petaluma
+10 1218PST 1815PST 0 0 0.00K 0.00K Flash Flood
+Stream gauges indicated that flash flooding was occurring on the Willow Brook and other portions of the Petaluma River. Also, Flooding was occurring on the lower Sonoma Creek watershed at the Agua Caliente stream gauge.
+Sonoma County Guerneville 10 1320PST 1520PST 0 0 0.00K 0.00K Flash Flood
+Flooding east of 5th street. Fife Creek overflowing.
+San Francisco County 2 NE Ocean View 10 1328PST 1428PST 0 0 0.00K 0.00K Flood
+Roadway flooding of hwy 280 and 101.
+San Mateo County 16 N Sterling Park 10 1431PST 1631PST 0 0 0.00K 0.00K Flood
+North bound Highway 101 on Paradise off ramp closed due to flooding.
+Napa County 1 W Krug 10 1500PST 2230PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain caused the Napa River at Lodi Lane in Saint Helena CA to exceed flood stage between 3:00-10:30 pm PST on January 10, 2017.
+Sonoma County 2 W Barlow 10 1502PST 1702PST 0 0 0.00K 0.00K Debris Flow
+Mud slide and rocks blocking part of Greenhill road.
+Napa County 1 E Salvador 10 1713PST 1913PST 0 0 0.00K 0.00K Flood
+Big Ranch Road completely under water at Salvador Ave.
+Marin County 1 NNW Kentfield 10 1843PST 2000PST 0 0 0.00K 0.00K Flash Flood
+Corte Madera Creek stream gauge at Ross exceeded flood stage between 6:43 pm and 8:00 pm PST on January 10.
+Sonoma County 2 SSW Santa Rosa Arpt 10 1845PST 2045PST 0 0 0.00K 0.00K Flood
+Entire roadway flooded at intersection of Barnes Rd and Hopper Ave.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+69
+CALIFORNIA, Western
+Contra Costa County 1 S Ambrose 10 1857PST 1957PST 0 0 0.00K 0.00K Heavy Rain
+Very heavy rainfall. Rates measure 1 inch per hour on Davis Instrument.
+Monterey County 1 NNW Posts 10 11
+1900PST 0630PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain over the Soberanes Burn Scar resulted in flooding on the Big Sur River. The Big Sur River stream gauge near Big Sur rose above flood stage at 7:00 pm PST on January 10 and continued above flood stage until 6:30 am PST on January 11.
+Contra Costa County 3 SE Clayton 10 1942PST 2142PST 0 0 0.00K 0.00K Flood
+Marsh Creek Road at Pine Lane roadway completely flooded.
+Alameda County 1 ESE Decoto 1 NNE Niles District
+10 11
+2045PST 0530PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain caused the Alameda Creek to flood.  The stream gauge on Alameda Creek near Niles to rise above flood stage between 8:45 pm PST on January 10 and 5:30 am PST on January 11.
+Santa Cruz County Mt Hermon 10 11
+2045PST 0130PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain in the Santa Cruz Mountains caused the San Lorenzo River to flood. The San Lorenzo River stream gauge at Big Trees exceeded flood stage between 8:45 pm on January 10 and 1:30 am on January 11.
+Santa Clara County 2 S Montalvo 10 2115PST 2315PST 0 0 0.00K 0.00K Debris Flow
+Black road at Gist Road rcwy is impassable due to major mud/rock slide.
+Monterey County 1 NW Elkhorn 10 2115PST 2315PST 0 0 0.00K 0.00K Flood
+Kirby Rd at Elkhorn Rd. Part of road washed away.
+San Mateo County 2 WNW Portola Vly 10 2126PST 2326PST 0 0 0.00K 0.00K Debris Flow
+At junction of hwy 35 and 84 multiple wires down, trees down, and mud slide.
+Santa Cruz County Forest Park 10 2143PST 2343PST 0 0 0.00K 0.00K Debris Flow
+Mud/rock slide 35 ft onto boulder creed dr.
+San Mateo County 3 NE North Fair Oaks 10 2143PST 2343PST 0 0 0.00K 0.00K Flood
+West bound Hwy 92 flooding at Pilarcito Creek Rd.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+70
+CALIFORNIA, Western
+San Francisco County 2 E Ocean View 11 0007PST 0107PST 0 0 0.00K 0.00K Flood
+Standing water all lanes on 101S. The third and final system in a string of Atmospheric River events between January 2 to 11. This system resulted in widespread roadway flooding and debris flows across the CWA.
+Sonoma County Forestville 18 1505PST 1705PST 0 0 0.00K 0.00K Flood
+Greenvalley Creek flooding across all lanes of Hwy 116 at junction of Travis Rd.
+Sonoma County Chiquita 18 1505PST 1705PST 0 0 0.00K 0.00K Flood
+Flooding at offramp of Hwy 101 and Dry Creek Rd.
+Sonoma County 1 WSW Sonoma County Arpt 18 1551PST 1751PST 0 0 0.00K 0.00K Flood
+Vehicle stuck in flood waters across Mark West Dr at Starr.
+Sonoma County 1 SE Rio Nido 18 1553PST 1753PST 0 0 0.00K 0.00K Debris Flow
+Mud/rock/dirt slide into river road near Korbel.
+
+CAZ513 Santa Clara Valley Including San Jose
+18 1553PST 1600PST 0 0 0.00K 0.00K High Wind
+Sonoma County 1 WSW Sonoma County Arpt 18 1618PST 1818PST 0 0 0.00K 0.00K Flood
+Mark West Station at Starr closed...3ft of moving water.
+Santa Cruz County 1 NW Paradise Park 18 1736PST 1936PST 0 0 0.00K 0.00K Debris Flow
+Large boulders blocking one lane of hwy 9 and several other boulders falling into roadway junction of old times rd.
+Sonoma County 1 N Windsor 18 1736PST 1936PST 0 0 0.00K 0.00K Flood
+Widespread flooded roadways at Arata and Los Amigos.
+Sonoma County 1 NW Mark West 18 1755PST 1955PST 0 0 0.00K 0.00K Flood
+Spotter reporting widespread standing water west side of Shilo at HWY 101. He had received 2.5 inches today.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+71
+CALIFORNIA, Western
+Santa Clara County Redwood Estates 18 1802PST 2002PST 0 0 0.00K 0.00K Debris Flow
+Mud/rock/dirt slide blocking one lane heading towards Hwy 17 from Bear Creek Rd.
+Santa Cruz County Forest Park 18 1802PST 2002PST 0 0 0.00K 0.00K Debris Flow
+Culvert flooding. Large amounts of water getting in roadway at Hwy 9 and Bear Creek Road.
+San Francisco County 2 NE San Francisco 18 1921PST 2021PST 0 0 0.00K 0.00K Heavy Rain
+Very heavy rain rates near 2.5 inches per hour.
+Sonoma County 1 NNE El Verano 18 1930PST 2230PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain resulted in flooding on the Sonoma Creek.  The Sonoma Creek stream gauge at Agua Caliente rose above flood stage at 7:30 pm PST on January 18 and remained above flood stage until 10:30 pm PST.
+Sonoma County 2 ENE Molino 18 1930PST 2130PST 0 0 0.00K 0.00K Flood
+Willowside Rd/Hall Rd roadway is completely flooded.
+Sonoma County 1 NE Hessel 18 19
+1945PST 0145PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain on January 18 caused the Laguna de Santa Rosa to flood. The stream gauge on the Laguna de Santa Rosa at Stony Point Road rose above flood stage at 7:45 pm PST on January 18 and remained above flood stage until 1:45 am PST on January 19.
+Sonoma County 1 NNW Schellville Arpt 18 2005PST 2205PST 0 0 0.00K 0.00K Flood
+Hwy 121 at junction of Hwy 12 closed due to flooding.
+Santa Clara County 1 NE (SJC)San Jose Intl A 18 2040PST 2240PST 0 0 0.00K 0.00K Flood
+Roadway flooded Junction Ave between Charcot and Hartog.
+Santa Cruz County 3 E Riverside Grove 18 2044PST 2244PST 0 0 0.00K 0.00K Debris Flow
+Lines, trees, and mud almost covering entire roadway of Bear Creek Rd at Deerwood Dr.
+Santa Cruz County 8 E Riverside Grove 18 2109PST 2309PST 0 0 0.00K 0.00K Flood
+Hwy 17 at Bear Creek Rd pooling of water 3 inches deep. 2.15 inches of rain from 6PM to 9PM.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+72
+CALIFORNIA, Western
+Napa County 2 NNE Lokoya 18 2120PST 2320PST 0 0 0.00K 0.00K Debris Flow
+Mud slide covering west bound lane of Dry Creek Rd.
+San Mateo County La Honda 18 2122PST 2322PST 0 0 0.00K 0.00K Debris Flow
+Mud slide blocking portions of hwy 84.
+Marin County 1 SSW Tomales 18 2122PST 2322PST 0 0 0.00K 0.00K Flood
+Closure of Hwy 1 at Tomales Rd due to flooding. Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+Santa Clara County 1 E Los Gatos 19 1015PST 1025PST 0 0 5000.00K Hail (0.25)
+Damage dollar amounts is a low estimate. Impacts are not fully known, but any individual car crash would likely exceed this amount.
+Santa Cruz County 1 NNE Santa Cruz 19 1047PST 1057PST 0 0 5000.00K Hail (0.25)
+Damage dollar amounts is a low estimate. Impacts are not fully known, but any individual car crash would likely exceed this amount.
+Santa Clara County 1 W Agnew 19 1059PST 1109PST 0 0 5000.00K Hail (0.25)
+Damage dollar amounts is a low estimate. Impacts are not fully known, but any individual car crash would likely exceed this amount.
+Alameda County 1 SSE Oakland 19 1100PST 1110PST 0 0 5000.00K Hail (0.25)
+Damage dollar amounts is a low estimate. Impacts are not fully known, but any individual car crash would likely exceed this amount.
+San Francisco County 4 E Crissy Aaf 20 0435PST 0440PST 0 0 0.01K 0.01K Lightning
+Photos of lightning striking the Transamerica Pyramid building shared on social media.
+San Francisco County 2 NE San Francisco 20 0436PST 0446PST 0 0 0.01K 0.01K Hail (0.25)
+The second in a series of three storms between January 18-23. Storm two occurred January 19-20. Heavy rain, strong winds, and small hail were observed with this frontal system as well as lightning strikes in San Francisco.
+Sonoma County 1 WSW Agua Caliente 1 NE El Verano
+20 0445PST 0800PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain resulted in flash flooding on both the Willow Brook at Penngrove and Sonoma Creek at Agua Caliente.  The Sonoma Creek stream gauge at Agua Caliente rose above flood stage at 4:45 am on January 20 and remained above flood stage until 8 am that day.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+73
+CALIFORNIA, Western                               
+Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+Santa Cruz County 1 N Santa Cruz 20 0547PST 0747PST 0 0 0.00K 0.00K Flood
+Flooding along SR hwy 17 8 to 10 inches on the road.
+San Francisco County San Francisco 20 0556PST 0600PST 0 0 0.01K 0.01K Lightning
+Video of Sutro tower being struck by lightning shared on social media.
+Santa Clara County San Jose 20 0603PST 0803PST 0 0 0.00K 0.00K Flood
+Roadway flooding along hwy 280.
+
+CAZ529 Northern Monterey Bay
+20 0605PST 0610PST 0 0 0.00K 0.00K High Wind
+The second in a series of three storms between January 18-23. Storm two occurred January 19-20. Heavy rain, strong winds, and small hail were observed with this frontal system as well as lightning strikes in San Francisco.
+Santa Cruz County Mt Hermon 20 0725PST 0830PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain in the Santa Cruz Mountains resulted in flooding on the San Lorenzo River.  The San Lorenzo stream gauge at Big Trees rose above flood stage at 7:25 am PST on January 20 and remained above flood stage until 8:30 am PST.
+San Benito County 3 WSW San Felipe 1 NE Hudner
+20 1030PST 1615PST 0 0 0.00K 0.00K Flash Flood
+The Pacheco Creek near Dunneville flooded.  A stream gauge on the Pacheco Creek near Dunneville rose above flood stage at 10:30 AM PST and remained above flood stage until 4:15 PM PST.
+Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+Santa Clara County 1 E Los Gatos 20 1350PST 1400PST 0 0 0.01K 0.01K Hail (0.25)
+Monterey County 1 E Marina 20 1425PST 1435PST 0 0 0.01K 0.01K Hail (0.25)
+Monterey County 1 W Salinas 20 1500PST 1520PST 0 0 0.01K 0.01K Hail (0.25)
+Hail covered ground.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+74
+CALIFORNIA, Western
+Monterey County 1 W Salinas 20 1830PST 1840PST 0 0 0.01K 0.01K Hail (0.25)
+Time and location is approximate.
+Monterey County 1 W Bolsa Knolls 20 1949PST 1959PST 0 0 0.01K 0.01K Hail (0.25)
+Picture shared via twitter from media. The second in a series of three storms between January 18-23. Storm two occurred January 19-20. Heavy rain, strong winds, and small hail were observed with this frontal system as well as lightning strikes in San Francisco.
+
+CAZ511-513-517529 East Bay Hills and the Diablo Range - Northern Monterey Bay - Santa Clara Valley Including San Jose Santa Lucia Mountains and Los Padres National Forest
+22 0118PST 0345PST 0 0 0.00K 0.00K High Wind
+Third in a series of three storm systems occurred from January 22 to January 23. Heavy rain, lightning, wind, hail, snow (above 2500 ft), and record breaking surf were observed with this system.
+Sonoma County 1 WSW Agua Caliente 1 NW Fetters Hot Spgs
+22 0415PST 0830PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain on January 22, 2017, resulted in flooding on the Sonoma Creek.  The Sonoma Creek stream gauge at Agua Caliente rose above flood stage at 4:15 AM PST on January 22 and remained above flood stage until 8:30 AM PST.
+Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+Sonoma County Annapolis 22 0519PST 0719PST 0 0 0.00K 0.00K Debris Flow
+Mud and rocks covering both lanes of Annapolis Rd.
+Monterey County 2 SE Posts 22 0627PST 0827PST 0 0 0.00K 0.00K Debris Flow
+Slide just south of the Big Sur Inn.
+Santa Cruz County 1 SSE Beulah Park 22 0748PST 0948PST 0 0 0.00K 0.00K Debris Flow
+North bound hwy 17 closed due to slide.
+Monterey County Notleys Lndg 22 0758PST 0858PST 0 0 0.00K 0.00K Flash Flood
+Roadway flooding Palo Colorado Rd at Hwy 1. Third in a series of three storm systems occurred from January 22 to January 23. Heavy rain, lightning, wind, hail, snow (above 2500 ft), and record breaking surf were observed with this system.
+Santa Clara County 3 S New Almaden 22 0812PST 1115PST 0 0 0.00K 0.00K Debris Flow
+Remote rain gauge data in the Loma Burn Scar indicated rain rates approaching 0.75 per hour, rates that were predetermined to cause debris flows in the burn scar.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+75
+CALIFORNIA, Western
+Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+Santa Cruz County 2 WNW Corralitos 22 1102PST 1302PST 0 0 0.00K 0.00K Debris Flow
+Mud slide at Freedom Blv and Hames Rd, 4 to 5 feet of mud in roadway.
+Third in a series of three storm systems occurred from January 22 to January 23. Heavy rain, lightning, wind, hail, snow (above 2500 ft), and record breaking surf were observed with this system.
+San Benito County 2 WSW Dunneville Corners 2 ENE Hudner
+22 1145PST 1600PST 0 0 0.00K 0.00K Flash Flood
+Heavy rain on January 24 caused the Pacheco Creek in San Benito County to flood.  The Pacheco Creek stream gauge near Dunneville rose above flood stage at 11:45 am PST on January 22 and remained above flood stage until 4 pm PST on January 22. Three storm systems swept through the region between January 18-23. The first occurred on January 18 as a cold front moved through. Heavy rain, widespread flooding, and debris flows were observed.
+San Francisco County 2 NNE San Francisco 22 1338PST 1339PST 0 0 0.01K 0.01K Lightning
+
+CAZ529 Northern Monterey Bay
+22 1400PST 1500PST 0 0 0.00K 0.00K High Surf
+Alameda County 2 ESE Berkeley 22 1404PST 1504PST 0 0 0.01K 0.01K Hail (0.25)
+Pea sized hail reported by spotter. Several other reports of pea sized hail also.
+San Francisco County 4 S Ocean View 22 1430PST 1440PST 0 0 0.01K 0.01K Hail (0.25)
+Pea sized hail reported at Sigh Hill and Sunshine Gardens in South San Francisco.
+San Mateo County 1 SW Half Moon Bay 22 1433PST 1440PST 0 0 0.01K 0.01K Hail (0.25)
+Spotter reported pea sized hail in Half Moon Bay. Other reports around San Mateo county as well.
+Monterey County Carmel Highlands 22 1445PST 1500PST 0 0 0.01K 0.01K Hail (0.25)
+Pea sized hail reported in Carmel.
+Santa Cruz County 4 N Soquel 22 1519PST 1719PST 0 0 0.00K 0.00K Debris Flow
+Mudslide reported blocking SB lanes of Soquel San Jose Road at Sundance Hill.
+Location Date Standard Local/ Time
+(Miles) Length Path
+(Yards) Width Path
+Killed Injured
+Number of Persons
+Property Crops
+Estimated Damage
+Character of Storm
+January 2017
+76
+CALIFORNIA, Western
+Napa County 2 E St Helena 22 1619PST 1819PST 0 0 0.00K 0.00K Debris Flow
+Mudslide reported at Silverado and Taplin Road. NB lanes blocked by water and mud.
+San Francisco County 3 WSW San Francisco 22 1747PST 1947PST 0 0 0.00K 0.00K Flood
+Southbound lanes of the Great Highway closed form Sloat to Skyline Blv due to roadway flooding.
+Marin County 1 WNW Carte Madera 22 2036PST 2236PST 0 0 0.00K 0.00K Flood
+Roadway flooding reported at San Clemente Drive.
+San Francisco County 1 SE San Francisco 23 0958PST 1005PST 0 0 0.01K 0.01K Hail (0.25)
+Multiple reports of pea sized hail near Glen park and Bernal Heights in San Francisco.
+Santa Clara County 1 NE Los Gatos 23 1452PST 1503PST 0 0 0.00K 0.00K Funnel Cloud
+Video of brief funnel cloud submitted via social media. Location and timing are approximate from radar.
+Santa Cruz County 1 WSW Santa Cruz 23 1454PST 1504PST 0 0 0.01K 0.01K Hail (0.25)
+Pea sized hail reported by spotter.
+San Mateo County 1 SSE San Mateo 23 1533PST 1540PST 0 0 0.01K 0.01K Hail (0.25)
+Pea sized hail reported in Highlands Baywood Park. Third in a series of three storm systems occurred from January 22 to January 23. Heavy rain, lightning, wind, hail, snow (above 2500 ft), and record breaking surf were observed with this system.
